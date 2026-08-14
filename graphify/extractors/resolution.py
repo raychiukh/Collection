@@ -2022,6 +2022,12 @@ def _resolve_cross_file_imports(
                                 "target": tgt_nid,
                                 "relation": "uses",
                                 "confidence": "INFERRED",
+                                # File-level import match, not a verified in-body
+                                # reference - same 0.8 used for the type-qualified
+                                # fallback elsewhere in this module. Without this,
+                                # report.py's average-confidence calc silently
+                                # defaults every one of these edges to 0.5.
+                                "confidence_score": 0.8,
                                 "source_file": str_path,
                                 "source_location": f"L{line}",
                                 "weight": 0.8,

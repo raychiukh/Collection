@@ -84,3 +84,40 @@ def test_python_parameter_return_and_generic_contexts(tmp_path: Path):
     assert ("process()", "Payload", "parameter_type") in pairs
     assert ("process()", "Result", "return_type") in pairs
     assert ("process_many()", "Payload", "generic_arg") in pairs
+
+
+def test_cross_file_import_uses_edges_carry_explicit_confidence_score(tmp_path: Path):
+    # _resolve_cross_file_imports (graphify/extractors/resolution.py) turns a
+    # file-level `from .models import Response` into class-level `uses` edges
+    # from every class in the importing file to the imported class. Those
+    # edges must set confidence_score explicitly - report.py's average-
+    # confidence calc silently defaults any INFERRED edge missing the field
+    # to 0.5, which would make a real structural match indistinguishable
+    # from a genuinely uncertain one.
+    models = _write(
+        tmp_path / "models.py",
+        "class Response:\n    pass\n\nclass Request:\n    pass\n",
+    )
+    client = _write(
+        tmp_path / "client.py",
+        "from models import Response, Request\n\n"
+        "class Client:\n    pass\n\n"
+        "class AsyncClient:\n    pass\n",
+    )
+
+    result = extract([models, client], cache_root=tmp_path)
+
+    response = _node_id(result, "Response", "models.py")
+    client_cls = _node_id(result, "Client", "client.py")
+    async_client_cls = _node_id(result, "AsyncClient", "client.py")
+
+    uses_edges = {
+        (e["source"], e["target"]): e
+        for e in result["edges"]
+        if e.get("relation") == "uses" and e["target"] == response
+    }
+
+    for src in (client_cls, async_client_cls):
+        edge = uses_edges[(src, response)]
+        assert edge["confidence"] == "INFERRED"
+        assert edge["confidence_score"] == 0.8
