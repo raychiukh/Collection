@@ -617,10 +617,10 @@
       "chapterNumber": 68,
       "title": "家主的威脅",
       "filePath": "第68章-家主的威脅.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 69,
