@@ -55,7 +55,7 @@
     { "chapterNumber": 43, "title": "未說出口的話", "filePath": "第43章-未說出口的話.md", "status": "completed", "wordCount": 3009, "wordCountPass": true, "retryCount": 9 },
     { "chapterNumber": 44, "title": "準決賽·聖裁修道院", "filePath": "第44章-準決賽·聖裁修道院.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 6 },
     { "chapterNumber": 45, "title": "代價", "filePath": "第45章-代價.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 8 },
-    { "chapterNumber": 46, "title": "議事會的任務", "filePath": "第46章-議事會的任務.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
+    { "chapterNumber": 46, "title": "議事會的任務", "filePath": "第46章-議事會的任務.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 10 },
     { "chapterNumber": 47, "title": "真實的裁決", "filePath": "第47章-真實的裁決.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
     { "chapterNumber": 48, "title": "浮現", "filePath": "第48章-浮現.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
     { "chapterNumber": 49, "title": "決賽", "filePath": "第49章-決賽.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
