@@ -716,10 +716,10 @@
       "chapterNumber": 79,
       "title": "兩條路",
       "filePath": "第79章-兩條路.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 80,
