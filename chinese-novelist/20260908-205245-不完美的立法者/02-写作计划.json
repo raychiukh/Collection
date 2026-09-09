@@ -689,10 +689,10 @@
       "chapterNumber": 76,
       "title": "裁決",
       "filePath": "第76章-裁決.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 13
     },
     {
       "chapterNumber": 77,
