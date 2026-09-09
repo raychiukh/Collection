@@ -6,9 +6,9 @@
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
   "updatedAt": "2026-09-09T00:00:00Z",
-  "status": "in_progress",
+  "status": "completed",
   "writingMode": "serial",
-  "notes": "第一部「異界法典」(1-30章)已完成。本次新增規劃第二部「學院裁解」前20章(31-50章)，全書規劃500-1000章，後續部次待本批完成後再依進度規劃，詳見 00-世界觀母設定.md。第二部起瑟梵塔日常對話改為口語化語氣，見 03-文風基準.md。",
+  "notes": "第一部「異界法典」(1-30章)已完成。第二部「學院裁解」前20章(31-50章)已完成。全書規劃500-1000章，後續章節(51-80章及之後)待用戶確認後再依進度規劃，詳見 00-世界觀母設定.md。第二部起瑟梵塔日常對話改為口語化語氣，見 03-文風基準.md。本批結尾(第50章)埋下雙重懸念：格哈德的告白被議事會召見打斷、凡霍恩署名的新信件直指北境旱災與羅儂家族沒落史的核心關聯。",
   "chapters": [
     { "chapterNumber": 1, "title": "國考放榜那天", "filePath": "第01章-國考放榜那天.md", "status": "completed", "wordCount": 3406, "wordCountPass": true, "retryCount": 0 },
     { "chapterNumber": 2, "title": "羅儂家族的長子", "filePath": "第02章-羅儂家族的長子.md", "status": "completed", "wordCount": 3183, "wordCountPass": true, "retryCount": 0 },
@@ -59,6 +59,6 @@
     { "chapterNumber": 47, "title": "真實的裁決", "filePath": "第47章-真實的裁決.md", "status": "completed", "wordCount": 3022, "wordCountPass": true, "retryCount": 3 },
     { "chapterNumber": 48, "title": "浮現", "filePath": "第48章-浮現.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 12 },
     { "chapterNumber": 49, "title": "決賽", "filePath": "第49章-決賽.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 12 },
-    { "chapterNumber": 50, "title": "學院裁解", "filePath": "第50章-學院裁解.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 }
+    { "chapterNumber": 50, "title": "學院裁解", "filePath": "第50章-學院裁解.md", "status": "completed", "wordCount": 3003, "wordCountPass": true, "retryCount": 10 }
   ]
 }
