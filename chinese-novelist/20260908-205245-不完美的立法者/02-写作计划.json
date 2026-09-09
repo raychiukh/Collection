@@ -680,10 +680,10 @@
       "chapterNumber": 75,
       "title": "祖父的遺憾",
       "filePath": "第75章-祖父的遺憾.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 76,
