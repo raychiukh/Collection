@@ -707,10 +707,10 @@
       "chapterNumber": 78,
       "title": "新的位置",
       "filePath": "第78章-新的位置.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 79,
