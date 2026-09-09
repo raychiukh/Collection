@@ -58,7 +58,7 @@
     { "chapterNumber": 46, "title": "議事會的任務", "filePath": "第46章-議事會的任務.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 10 },
     { "chapterNumber": 47, "title": "真實的裁決", "filePath": "第47章-真實的裁決.md", "status": "completed", "wordCount": 3022, "wordCountPass": true, "retryCount": 3 },
     { "chapterNumber": 48, "title": "浮現", "filePath": "第48章-浮現.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 12 },
-    { "chapterNumber": 49, "title": "決賽", "filePath": "第49章-決賽.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
+    { "chapterNumber": 49, "title": "決賽", "filePath": "第49章-決賽.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 12 },
     { "chapterNumber": 50, "title": "學院裁解", "filePath": "第50章-學院裁解.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 }
   ]
 }
