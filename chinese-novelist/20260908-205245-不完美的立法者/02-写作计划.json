@@ -662,10 +662,10 @@
       "chapterNumber": 73,
       "title": "聽證（下）",
       "filePath": "第73章-聽證（下）.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3054,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 74,
