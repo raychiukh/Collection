@@ -626,10 +626,10 @@
       "chapterNumber": 69,
       "title": "抉擇",
       "filePath": "第69章-抉擇.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 70,
