@@ -653,10 +653,10 @@
       "chapterNumber": 72,
       "title": "未知的細節",
       "filePath": "第72章-未知的細節.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 73,
