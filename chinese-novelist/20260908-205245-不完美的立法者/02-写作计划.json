@@ -5,90 +5,730 @@
   "totalChapters": 80,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
-  "updatedAt": "2026-09-09T01:00:00Z",
+  "updatedAt": "2026-09-09",
   "status": "in_progress",
   "writingMode": "serial",
   "notes": "第一部「異界法典」(1-30章)已完成。第二部「學院裁解」前20章(31-50章)已完成。本次新增規劃第二部後30章(51-80章)，完成後第二部正式收官，銜接第三部「派系之間」(81-140章，待後續規劃)。核心事件：格哈德揭曉自己是十五年前北境水權案化名書記官，瑟梵塔一行推動舊案重審，最終促成「不完美卻真實」的平反，詳見 00-世界觀母設定.md 二十二至二十四節。第二部起瑟梵塔日常對話維持口語化語氣，見 03-文風基準.md。",
   "chapters": [
-    { "chapterNumber": 1, "title": "國考放榜那天", "filePath": "第01章-國考放榜那天.md", "status": "completed", "wordCount": 3406, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 2, "title": "羅儂家族的長子", "filePath": "第02章-羅儂家族的長子.md", "status": "completed", "wordCount": 3183, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 3, "title": "立法手記", "filePath": "第03章-立法手記.md", "status": "completed", "wordCount": 3060, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 4, "title": "知識承納", "filePath": "第04章-知識承納.md", "status": "completed", "wordCount": 3211, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 5, "title": "保送", "filePath": "第05章-保送.md", "status": "completed", "wordCount": 3188, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 6, "title": "中央裁解學院", "filePath": "第06章-中央裁解學院.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 7, "title": "艾琳娜", "filePath": "第07章-艾琳娜.md", "status": "completed", "wordCount": 3079, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 8, "title": "法之具現化", "filePath": "第08章-法之具現化.md", "status": "completed", "wordCount": 3029, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 9, "title": "法息測序(上)", "filePath": "第09章-法息測序(上).md", "status": "completed", "wordCount": 3006, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 10, "title": "第二審議室", "filePath": "第10章-第二審議室.md", "status": "completed", "wordCount": 3071, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 11, "title": "失真", "filePath": "第11章-失真.md", "status": "completed", "wordCount": 3031, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 12, "title": "歸位", "filePath": "第12章-歸位.md", "status": "completed", "wordCount": 3224, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 13, "title": "貴族與平民", "filePath": "第13章-貴族與平民.md", "status": "completed", "wordCount": 3187, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 14, "title": "判例課(上)", "filePath": "第14章-判例課(上).md", "status": "completed", "wordCount": 3034, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 15, "title": "模擬對決", "filePath": "第15章-模擬對決.md", "status": "completed", "wordCount": 3114, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 16, "title": "羅儂五式", "filePath": "第16章-羅儂五式.md", "status": "completed", "wordCount": 3030, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 17, "title": "舊日的名字", "filePath": "第17章-舊日的名字.md", "status": "completed", "wordCount": 3004, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 18, "title": "觀察筆記", "filePath": "第18章-觀察筆記.md", "status": "completed", "wordCount": 3003, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 19, "title": "派系初現", "filePath": "第19章-派系初現.md", "status": "completed", "wordCount": 3032, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 20, "title": "選擇的重量", "filePath": "第20章-選擇的重量.md", "status": "completed", "wordCount": 3019, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 21, "title": "法息運用", "filePath": "第21章-法息運用.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 22, "title": "舊案", "filePath": "第22章-舊案.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 23, "title": "家書", "filePath": "第23章-家書.md", "status": "completed", "wordCount": 3012, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 24, "title": "手記的邊界", "filePath": "第24章-手記的邊界.md", "status": "completed", "wordCount": 3004, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 25, "title": "對手登場", "filePath": "第25章-對手登場.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 26, "title": "法理交鋒", "filePath": "第26章-法理交鋒.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 27, "title": "暗流", "filePath": "第27章-暗流.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 28, "title": "艾琳娜的立場", "filePath": "第28章-艾琳娜的立場.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 29, "title": "代價", "filePath": "第29章-代價.md", "status": "completed", "wordCount": 3085, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 30, "title": "異界法典", "filePath": "第30章-異界法典.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 31, "title": "靜默廳", "filePath": "第31章-靜默廳.md", "status": "completed", "wordCount": 3017, "wordCountPass": true, "retryCount": 0 },
-    { "chapterNumber": 32, "title": "特別課程", "filePath": "第32章-特別課程.md", "status": "completed", "wordCount": 3127, "wordCountPass": true, "retryCount": 1 },
-    { "chapterNumber": 33, "title": "跨院模擬裁決賽", "filePath": "第33章-跨院模擬裁決賽.md", "status": "completed", "wordCount": 3125, "wordCountPass": true, "retryCount": 2 },
-    { "chapterNumber": 34, "title": "隊伍甄選", "filePath": "第34章-隊伍甄選.md", "status": "completed", "wordCount": 3009, "wordCountPass": true, "retryCount": 2 },
-    { "chapterNumber": 35, "title": "舊案新線索", "filePath": "第35章-舊案新線索.md", "status": "completed", "wordCount": 3052, "wordCountPass": true, "retryCount": 2 },
-    { "chapterNumber": 36, "title": "隊伍磨合", "filePath": "第36章-隊伍磨合.md", "status": "completed", "wordCount": 3009, "wordCountPass": true, "retryCount": 3 },
-    { "chapterNumber": 37, "title": "意外", "filePath": "第37章-意外.md", "status": "completed", "wordCount": 3007, "wordCountPass": true, "retryCount": 2 },
-    { "chapterNumber": 38, "title": "對手學院", "filePath": "第38章-對手學院.md", "status": "completed", "wordCount": 3012, "wordCountPass": true, "retryCount": 5 },
-    { "chapterNumber": 39, "title": "首輪對決(上)", "filePath": "第39章-首輪對決(上).md", "status": "completed", "wordCount": 3006, "wordCountPass": true, "retryCount": 6 },
-    { "chapterNumber": 40, "title": "首輪對決(下)", "filePath": "第40章-首輪對決(下).md", "status": "completed", "wordCount": 3077, "wordCountPass": true, "retryCount": 2 },
-    { "chapterNumber": 41, "title": "慶功與裂痕", "filePath": "第41章-慶功與裂痕.md", "status": "completed", "wordCount": 3029, "wordCountPass": true, "retryCount": 2 },
-    { "chapterNumber": 42, "title": "線索加深", "filePath": "第42章-線索加深.md", "status": "completed", "wordCount": 3003, "wordCountPass": true, "retryCount": 5 },
-    { "chapterNumber": 43, "title": "未說出口的話", "filePath": "第43章-未說出口的話.md", "status": "completed", "wordCount": 3009, "wordCountPass": true, "retryCount": 9 },
-    { "chapterNumber": 44, "title": "準決賽·聖裁修道院", "filePath": "第44章-準決賽·聖裁修道院.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 6 },
-    { "chapterNumber": 45, "title": "代價", "filePath": "第45章-代價.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 8 },
-    { "chapterNumber": 46, "title": "議事會的任務", "filePath": "第46章-議事會的任務.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 10 },
-    { "chapterNumber": 47, "title": "真實的裁決", "filePath": "第47章-真實的裁決.md", "status": "completed", "wordCount": 3022, "wordCountPass": true, "retryCount": 3 },
-    { "chapterNumber": 48, "title": "浮現", "filePath": "第48章-浮現.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 12 },
-    { "chapterNumber": 49, "title": "決賽", "filePath": "第49章-決賽.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 12 },
-    { "chapterNumber": 50, "title": "學院裁解", "filePath": "第50章-學院裁解.md", "status": "completed", "wordCount": 3003, "wordCountPass": true, "retryCount": 10 },
-    { "chapterNumber": 51, "title": "遲來的告白", "filePath": "第51章-遲來的告白.md", "status": "completed", "wordCount": 3003, "wordCountPass": true, "retryCount": 10 },
-    { "chapterNumber": 52, "title": "全體會議", "filePath": "第52章-全體會議.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 8 },
-    { "chapterNumber": 53, "title": "質詢", "filePath": "第53章-質詢.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 15 },
-    { "chapterNumber": 54, "title": "凡霍恩的提點", "filePath": "第54章-凡霍恩的提點.md", "status": "completed", "wordCount": 3003, "wordCountPass": true, "retryCount": 10 },
-    { "chapterNumber": 55, "title": "格哈德的完整告白（上）", "filePath": "第55章-格哈德的完整告白（上）.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 22 },
-    { "chapterNumber": 56, "title": "格哈德的完整告白（下）", "filePath": "第56章-格哈德的完整告白（下）.md", "status": "completed", "wordCount": 3031, "wordCountPass": true, "retryCount": 5 },
-    { "chapterNumber": 57, "title": "維蘭家族的陰影", "filePath": "第57章-維蘭家族的陰影.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 9 },
-    { "chapterNumber": 58, "title": "攤牌", "filePath": "第58章-攤牌.md", "status": "completed", "wordCount": 3119, "wordCountPass": true, "retryCount": 3 },
-    { "chapterNumber": 59, "title": "艾琳娜的立場", "filePath": "第59章-艾琳娜的立場.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 16 },
-    { "chapterNumber": 60, "title": "修復", "filePath": "第60章-修復.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 20 },
-    { "chapterNumber": 61, "title": "修道院的秘密", "filePath": "第61章-修道院的秘密.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 20 },
-    { "chapterNumber": 62, "title": "三方同盟", "filePath": "第62章-三方同盟.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 12 },
-    { "chapterNumber": 63, "title": "阻力", "filePath": "第63章-阻力.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 64, "title": "警告", "filePath": "第64章-警告.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 65, "title": "格哈德的選擇", "filePath": "第65章-格哈德的選擇.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 66, "title": "奧登的秘密", "filePath": "第66章-奧登的秘密.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 67, "title": "聽證前夕", "filePath": "第67章-聽證前夕.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 68, "title": "家主的威脅", "filePath": "第68章-家主的威脅.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 69, "title": "抉擇", "filePath": "第69章-抉擇.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 70, "title": "聽證（上）", "filePath": "第70章-聽證（上）.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 71, "title": "意外證人", "filePath": "第71章-意外證人.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 72, "title": "未知的細節", "filePath": "第72章-未知的細節.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 73, "title": "聽證（下）", "filePath": "第73章-聽證（下）.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 74, "title": "等待", "filePath": "第74章-等待.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 75, "title": "祖父的遺憾", "filePath": "第75章-祖父的遺憾.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 76, "title": "裁決", "filePath": "第76章-裁決.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 77, "title": "餘波", "filePath": "第77章-餘波.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 78, "title": "新的位置", "filePath": "第78章-新的位置.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 79, "title": "兩條路", "filePath": "第79章-兩條路.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
-    { "chapterNumber": 80, "title": "學院裁解終章", "filePath": "第80章-學院裁解終章.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 }
+    {
+      "chapterNumber": 1,
+      "title": "國考放榜那天",
+      "filePath": "第01章-國考放榜那天.md",
+      "status": "completed",
+      "wordCount": 3406,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 2,
+      "title": "羅儂家族的長子",
+      "filePath": "第02章-羅儂家族的長子.md",
+      "status": "completed",
+      "wordCount": 3183,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 3,
+      "title": "立法手記",
+      "filePath": "第03章-立法手記.md",
+      "status": "completed",
+      "wordCount": 3060,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 4,
+      "title": "知識承納",
+      "filePath": "第04章-知識承納.md",
+      "status": "completed",
+      "wordCount": 3211,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 5,
+      "title": "保送",
+      "filePath": "第05章-保送.md",
+      "status": "completed",
+      "wordCount": 3188,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 6,
+      "title": "中央裁解學院",
+      "filePath": "第06章-中央裁解學院.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 7,
+      "title": "艾琳娜",
+      "filePath": "第07章-艾琳娜.md",
+      "status": "completed",
+      "wordCount": 3079,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 8,
+      "title": "法之具現化",
+      "filePath": "第08章-法之具現化.md",
+      "status": "completed",
+      "wordCount": 3029,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 9,
+      "title": "法息測序(上)",
+      "filePath": "第09章-法息測序(上).md",
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 10,
+      "title": "第二審議室",
+      "filePath": "第10章-第二審議室.md",
+      "status": "completed",
+      "wordCount": 3071,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 11,
+      "title": "失真",
+      "filePath": "第11章-失真.md",
+      "status": "completed",
+      "wordCount": 3031,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 12,
+      "title": "歸位",
+      "filePath": "第12章-歸位.md",
+      "status": "completed",
+      "wordCount": 3224,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 13,
+      "title": "貴族與平民",
+      "filePath": "第13章-貴族與平民.md",
+      "status": "completed",
+      "wordCount": 3187,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 14,
+      "title": "判例課(上)",
+      "filePath": "第14章-判例課(上).md",
+      "status": "completed",
+      "wordCount": 3034,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 15,
+      "title": "模擬對決",
+      "filePath": "第15章-模擬對決.md",
+      "status": "completed",
+      "wordCount": 3114,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 16,
+      "title": "羅儂五式",
+      "filePath": "第16章-羅儂五式.md",
+      "status": "completed",
+      "wordCount": 3030,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 17,
+      "title": "舊日的名字",
+      "filePath": "第17章-舊日的名字.md",
+      "status": "completed",
+      "wordCount": 3004,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 18,
+      "title": "觀察筆記",
+      "filePath": "第18章-觀察筆記.md",
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 19,
+      "title": "派系初現",
+      "filePath": "第19章-派系初現.md",
+      "status": "completed",
+      "wordCount": 3032,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 20,
+      "title": "選擇的重量",
+      "filePath": "第20章-選擇的重量.md",
+      "status": "completed",
+      "wordCount": 3019,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 21,
+      "title": "法息運用",
+      "filePath": "第21章-法息運用.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 22,
+      "title": "舊案",
+      "filePath": "第22章-舊案.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 23,
+      "title": "家書",
+      "filePath": "第23章-家書.md",
+      "status": "completed",
+      "wordCount": 3012,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 24,
+      "title": "手記的邊界",
+      "filePath": "第24章-手記的邊界.md",
+      "status": "completed",
+      "wordCount": 3004,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 25,
+      "title": "對手登場",
+      "filePath": "第25章-對手登場.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 26,
+      "title": "法理交鋒",
+      "filePath": "第26章-法理交鋒.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 27,
+      "title": "暗流",
+      "filePath": "第27章-暗流.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 28,
+      "title": "艾琳娜的立場",
+      "filePath": "第28章-艾琳娜的立場.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 29,
+      "title": "代價",
+      "filePath": "第29章-代價.md",
+      "status": "completed",
+      "wordCount": 3085,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 30,
+      "title": "異界法典",
+      "filePath": "第30章-異界法典.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 31,
+      "title": "靜默廳",
+      "filePath": "第31章-靜默廳.md",
+      "status": "completed",
+      "wordCount": 3017,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 32,
+      "title": "特別課程",
+      "filePath": "第32章-特別課程.md",
+      "status": "completed",
+      "wordCount": 3127,
+      "wordCountPass": true,
+      "retryCount": 1
+    },
+    {
+      "chapterNumber": 33,
+      "title": "跨院模擬裁決賽",
+      "filePath": "第33章-跨院模擬裁決賽.md",
+      "status": "completed",
+      "wordCount": 3125,
+      "wordCountPass": true,
+      "retryCount": 2
+    },
+    {
+      "chapterNumber": 34,
+      "title": "隊伍甄選",
+      "filePath": "第34章-隊伍甄選.md",
+      "status": "completed",
+      "wordCount": 3009,
+      "wordCountPass": true,
+      "retryCount": 2
+    },
+    {
+      "chapterNumber": 35,
+      "title": "舊案新線索",
+      "filePath": "第35章-舊案新線索.md",
+      "status": "completed",
+      "wordCount": 3052,
+      "wordCountPass": true,
+      "retryCount": 2
+    },
+    {
+      "chapterNumber": 36,
+      "title": "隊伍磨合",
+      "filePath": "第36章-隊伍磨合.md",
+      "status": "completed",
+      "wordCount": 3009,
+      "wordCountPass": true,
+      "retryCount": 3
+    },
+    {
+      "chapterNumber": 37,
+      "title": "意外",
+      "filePath": "第37章-意外.md",
+      "status": "completed",
+      "wordCount": 3007,
+      "wordCountPass": true,
+      "retryCount": 2
+    },
+    {
+      "chapterNumber": 38,
+      "title": "對手學院",
+      "filePath": "第38章-對手學院.md",
+      "status": "completed",
+      "wordCount": 3012,
+      "wordCountPass": true,
+      "retryCount": 5
+    },
+    {
+      "chapterNumber": 39,
+      "title": "首輪對決(上)",
+      "filePath": "第39章-首輪對決(上).md",
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 6
+    },
+    {
+      "chapterNumber": 40,
+      "title": "首輪對決(下)",
+      "filePath": "第40章-首輪對決(下).md",
+      "status": "completed",
+      "wordCount": 3077,
+      "wordCountPass": true,
+      "retryCount": 2
+    },
+    {
+      "chapterNumber": 41,
+      "title": "慶功與裂痕",
+      "filePath": "第41章-慶功與裂痕.md",
+      "status": "completed",
+      "wordCount": 3029,
+      "wordCountPass": true,
+      "retryCount": 2
+    },
+    {
+      "chapterNumber": 42,
+      "title": "線索加深",
+      "filePath": "第42章-線索加深.md",
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 5
+    },
+    {
+      "chapterNumber": 43,
+      "title": "未說出口的話",
+      "filePath": "第43章-未說出口的話.md",
+      "status": "completed",
+      "wordCount": 3009,
+      "wordCountPass": true,
+      "retryCount": 9
+    },
+    {
+      "chapterNumber": 44,
+      "title": "準決賽·聖裁修道院",
+      "filePath": "第44章-準決賽·聖裁修道院.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 6
+    },
+    {
+      "chapterNumber": 45,
+      "title": "代價",
+      "filePath": "第45章-代價.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 8
+    },
+    {
+      "chapterNumber": 46,
+      "title": "議事會的任務",
+      "filePath": "第46章-議事會的任務.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 10
+    },
+    {
+      "chapterNumber": 47,
+      "title": "真實的裁決",
+      "filePath": "第47章-真實的裁決.md",
+      "status": "completed",
+      "wordCount": 3022,
+      "wordCountPass": true,
+      "retryCount": 3
+    },
+    {
+      "chapterNumber": 48,
+      "title": "浮現",
+      "filePath": "第48章-浮現.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
+    },
+    {
+      "chapterNumber": 49,
+      "title": "決賽",
+      "filePath": "第49章-決賽.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 12
+    },
+    {
+      "chapterNumber": 50,
+      "title": "學院裁解",
+      "filePath": "第50章-學院裁解.md",
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 10
+    },
+    {
+      "chapterNumber": 51,
+      "title": "遲來的告白",
+      "filePath": "第51章-遲來的告白.md",
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 10
+    },
+    {
+      "chapterNumber": 52,
+      "title": "全體會議",
+      "filePath": "第52章-全體會議.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 8
+    },
+    {
+      "chapterNumber": 53,
+      "title": "質詢",
+      "filePath": "第53章-質詢.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
+    },
+    {
+      "chapterNumber": 54,
+      "title": "凡霍恩的提點",
+      "filePath": "第54章-凡霍恩的提點.md",
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 10
+    },
+    {
+      "chapterNumber": 55,
+      "title": "格哈德的完整告白（上）",
+      "filePath": "第55章-格哈德的完整告白（上）.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 22
+    },
+    {
+      "chapterNumber": 56,
+      "title": "格哈德的完整告白（下）",
+      "filePath": "第56章-格哈德的完整告白（下）.md",
+      "status": "completed",
+      "wordCount": 3031,
+      "wordCountPass": true,
+      "retryCount": 5
+    },
+    {
+      "chapterNumber": 57,
+      "title": "維蘭家族的陰影",
+      "filePath": "第57章-維蘭家族的陰影.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 9
+    },
+    {
+      "chapterNumber": 58,
+      "title": "攤牌",
+      "filePath": "第58章-攤牌.md",
+      "status": "completed",
+      "wordCount": 3119,
+      "wordCountPass": true,
+      "retryCount": 3
+    },
+    {
+      "chapterNumber": 59,
+      "title": "艾琳娜的立場",
+      "filePath": "第59章-艾琳娜的立場.md",
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 16
+    },
+    {
+      "chapterNumber": 60,
+      "title": "修復",
+      "filePath": "第60章-修復.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 20
+    },
+    {
+      "chapterNumber": 61,
+      "title": "修道院的秘密",
+      "filePath": "第61章-修道院的秘密.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 20
+    },
+    {
+      "chapterNumber": 62,
+      "title": "三方同盟",
+      "filePath": "第62章-三方同盟.md",
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
+    },
+    {
+      "chapterNumber": 63,
+      "title": "阻力",
+      "filePath": "第63章-阻力.md",
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 3
+    },
+    {
+      "chapterNumber": 64,
+      "title": "警告",
+      "filePath": "第64章-警告.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 65,
+      "title": "格哈德的選擇",
+      "filePath": "第65章-格哈德的選擇.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 66,
+      "title": "奧登的秘密",
+      "filePath": "第66章-奧登的秘密.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 67,
+      "title": "聽證前夕",
+      "filePath": "第67章-聽證前夕.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 68,
+      "title": "家主的威脅",
+      "filePath": "第68章-家主的威脅.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 69,
+      "title": "抉擇",
+      "filePath": "第69章-抉擇.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 70,
+      "title": "聽證（上）",
+      "filePath": "第70章-聽證（上）.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 71,
+      "title": "意外證人",
+      "filePath": "第71章-意外證人.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 72,
+      "title": "未知的細節",
+      "filePath": "第72章-未知的細節.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 73,
+      "title": "聽證（下）",
+      "filePath": "第73章-聽證（下）.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 74,
+      "title": "等待",
+      "filePath": "第74章-等待.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 75,
+      "title": "祖父的遺憾",
+      "filePath": "第75章-祖父的遺憾.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 76,
+      "title": "裁決",
+      "filePath": "第76章-裁決.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 77,
+      "title": "餘波",
+      "filePath": "第77章-餘波.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 78,
+      "title": "新的位置",
+      "filePath": "第78章-新的位置.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 79,
+      "title": "兩條路",
+      "filePath": "第79章-兩條路.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 80,
+      "title": "學院裁解終章",
+      "filePath": "第80章-學院裁解終章.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    }
   ]
 }
