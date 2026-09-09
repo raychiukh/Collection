@@ -590,10 +590,10 @@
       "chapterNumber": 65,
       "title": "格哈德的選擇",
       "filePath": "第65章-格哈德的選擇.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 8
     },
     {
       "chapterNumber": 66,
