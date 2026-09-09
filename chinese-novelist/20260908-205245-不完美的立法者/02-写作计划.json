@@ -644,10 +644,10 @@
       "chapterNumber": 71,
       "title": "意外證人",
       "filePath": "第71章-意外證人.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3037,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 72,
