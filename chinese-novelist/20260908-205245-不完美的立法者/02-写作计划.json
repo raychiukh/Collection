@@ -671,10 +671,10 @@
       "chapterNumber": 74,
       "title": "等待",
       "filePath": "第74章-等待.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3028,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 75,
