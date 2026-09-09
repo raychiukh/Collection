@@ -635,10 +635,10 @@
       "chapterNumber": 70,
       "title": "聽證（上）",
       "filePath": "第70章-聽證（上）.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 71,
