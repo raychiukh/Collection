@@ -63,7 +63,7 @@
     { "chapterNumber": 51, "title": "遲來的告白", "filePath": "第51章-遲來的告白.md", "status": "completed", "wordCount": 3003, "wordCountPass": true, "retryCount": 10 },
     { "chapterNumber": 52, "title": "全體會議", "filePath": "第52章-全體會議.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 8 },
     { "chapterNumber": 53, "title": "質詢", "filePath": "第53章-質詢.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 15 },
-    { "chapterNumber": 54, "title": "凡霍恩的提點", "filePath": "第54章-凡霍恩的提點.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
+    { "chapterNumber": 54, "title": "凡霍恩的提點", "filePath": "第54章-凡霍恩的提點.md", "status": "completed", "wordCount": 3003, "wordCountPass": true, "retryCount": 10 },
     { "chapterNumber": 55, "title": "格哈德的完整告白（上）", "filePath": "第55章-格哈德的完整告白（上）.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
     { "chapterNumber": 56, "title": "格哈德的完整告白（下）", "filePath": "第56章-格哈德的完整告白（下）.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
     { "chapterNumber": 57, "title": "維蘭家族的陰影", "filePath": "第57章-維蘭家族的陰影.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
