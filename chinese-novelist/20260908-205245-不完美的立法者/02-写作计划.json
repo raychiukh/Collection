@@ -6,7 +6,7 @@
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
   "updatedAt": "2026-09-09",
-  "status": "in_progress",
+  "status": "completed",
   "writingMode": "serial",
   "notes": "第一部「異界法典」(1-30章)已完成。第二部「學院裁解」前20章(31-50章)已完成。本次新增規劃第二部後30章(51-80章)，完成後第二部正式收官，銜接第三部「派系之間」(81-140章，待後續規劃)。核心事件：格哈德揭曉自己是十五年前北境水權案化名書記官，瑟梵塔一行推動舊案重審，最終促成「不完美卻真實」的平反，詳見 00-世界觀母設定.md 二十二至二十四節。第二部起瑟梵塔日常對話維持口語化語氣，見 03-文風基準.md。",
   "chapters": [
@@ -725,10 +725,10 @@
       "chapterNumber": 80,
       "title": "學院裁解終章",
       "filePath": "第80章-學院裁解終章.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3013,
+      "wordCountPass": true,
+      "retryCount": 2
     }
   ]
 }
