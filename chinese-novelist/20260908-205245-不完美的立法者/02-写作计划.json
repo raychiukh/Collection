@@ -69,7 +69,7 @@
     { "chapterNumber": 57, "title": "維蘭家族的陰影", "filePath": "第57章-維蘭家族的陰影.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 9 },
     { "chapterNumber": 58, "title": "攤牌", "filePath": "第58章-攤牌.md", "status": "completed", "wordCount": 3119, "wordCountPass": true, "retryCount": 3 },
     { "chapterNumber": 59, "title": "艾琳娜的立場", "filePath": "第59章-艾琳娜的立場.md", "status": "completed", "wordCount": 3001, "wordCountPass": true, "retryCount": 16 },
-    { "chapterNumber": 60, "title": "修復", "filePath": "第60章-修復.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
+    { "chapterNumber": 60, "title": "修復", "filePath": "第60章-修復.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 20 },
     { "chapterNumber": 61, "title": "修道院的秘密", "filePath": "第61章-修道院的秘密.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
     { "chapterNumber": 62, "title": "三方同盟", "filePath": "第62章-三方同盟.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
     { "chapterNumber": 63, "title": "阻力", "filePath": "第63章-阻力.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
