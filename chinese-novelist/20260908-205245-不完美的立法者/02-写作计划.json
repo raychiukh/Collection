@@ -698,10 +698,10 @@
       "chapterNumber": 77,
       "title": "餘波",
       "filePath": "第77章-餘波.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 8
     },
     {
       "chapterNumber": 78,
