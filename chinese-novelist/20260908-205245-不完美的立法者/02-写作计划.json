@@ -599,10 +599,10 @@
       "chapterNumber": 66,
       "title": "奧登的秘密",
       "filePath": "第66章-奧登的秘密.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3091,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 67,
