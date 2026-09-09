@@ -67,7 +67,7 @@
     { "chapterNumber": 55, "title": "格哈德的完整告白（上）", "filePath": "第55章-格哈德的完整告白（上）.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 22 },
     { "chapterNumber": 56, "title": "格哈德的完整告白（下）", "filePath": "第56章-格哈德的完整告白（下）.md", "status": "completed", "wordCount": 3031, "wordCountPass": true, "retryCount": 5 },
     { "chapterNumber": 57, "title": "維蘭家族的陰影", "filePath": "第57章-維蘭家族的陰影.md", "status": "completed", "wordCount": 3000, "wordCountPass": true, "retryCount": 9 },
-    { "chapterNumber": 58, "title": "攤牌", "filePath": "第58章-攤牌.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
+    { "chapterNumber": 58, "title": "攤牌", "filePath": "第58章-攤牌.md", "status": "completed", "wordCount": 3119, "wordCountPass": true, "retryCount": 3 },
     { "chapterNumber": 59, "title": "艾琳娜的立場", "filePath": "第59章-艾琳娜的立場.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
     { "chapterNumber": 60, "title": "修復", "filePath": "第60章-修復.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
     { "chapterNumber": 61, "title": "修道院的秘密", "filePath": "第61章-修道院的秘密.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0 },
