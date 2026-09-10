@@ -1409,10 +1409,10 @@
       "chapterNumber": 156,
       "title": "艾琳娜的立場再考驗",
       "filePath": "第156章-艾琳娜的立場再考驗.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 157,
