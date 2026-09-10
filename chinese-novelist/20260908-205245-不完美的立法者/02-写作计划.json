@@ -914,10 +914,10 @@
       "chapterNumber": 101,
       "title": "暗影裡的哈維爾",
       "filePath": "第101章-暗影裡的哈維爾.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3004,
+      "wordCountPass": true,
+      "retryCount": 4
     },
     {
       "chapterNumber": 102,
