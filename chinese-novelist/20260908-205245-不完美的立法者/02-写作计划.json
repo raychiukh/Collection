@@ -860,10 +860,10 @@
       "chapterNumber": 95,
       "title": "立法者的複數",
       "filePath": "第95章-立法者的複數.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3044,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 96,
