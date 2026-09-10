@@ -896,10 +896,10 @@
       "chapterNumber": 99,
       "title": "議事廳的交鋒",
       "filePath": "第99章-議事廳的交鋒.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3020,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 100,
