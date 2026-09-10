@@ -1283,10 +1283,10 @@
       "chapterNumber": 142,
       "title": "旅途上的暗流",
       "filePath": "第142章-旅途上的暗流.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3077,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 143,
