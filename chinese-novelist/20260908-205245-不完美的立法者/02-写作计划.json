@@ -1193,10 +1193,10 @@
       "chapterNumber": 132,
       "title": "危機交織",
       "filePath": "第132章-危機交織.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 16
     },
     {
       "chapterNumber": 133,
