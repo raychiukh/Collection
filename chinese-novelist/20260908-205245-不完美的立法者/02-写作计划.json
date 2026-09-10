@@ -1445,10 +1445,10 @@
       "chapterNumber": 160,
       "title": "誤解與澄清",
       "filePath": "第160章-誤解與澄清.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 161,
