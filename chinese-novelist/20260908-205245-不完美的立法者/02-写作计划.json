@@ -1031,10 +1031,10 @@
       "chapterNumber": 114,
       "title": "坦誠歸來",
       "filePath": "第114章-坦誠歸來.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3057,
+      "wordCountPass": true,
+      "retryCount": 4
     },
     {
       "chapterNumber": 115,
