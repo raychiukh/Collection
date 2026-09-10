@@ -1049,10 +1049,10 @@
       "chapterNumber": 116,
       "title": "蘭道夫的加冕",
       "filePath": "第116章-蘭道夫的加冕.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 117,
