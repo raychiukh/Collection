@@ -1256,10 +1256,10 @@
       "chapterNumber": 139,
       "title": "家族之名的重量",
       "filePath": "第139章-家族之名的重量.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3002,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 140,
