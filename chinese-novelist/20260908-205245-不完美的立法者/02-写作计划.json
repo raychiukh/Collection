@@ -1463,10 +1463,10 @@
       "chapterNumber": 162,
       "title": "弱勢的邊界",
       "filePath": "第162章-弱勢的邊界.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3002,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 163,
