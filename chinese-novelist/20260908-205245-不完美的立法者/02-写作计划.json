@@ -1391,10 +1391,10 @@
       "chapterNumber": 154,
       "title": "兩種守望",
       "filePath": "第154章-兩種守望.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3002,
+      "wordCountPass": true,
+      "retryCount": 20
     },
     {
       "chapterNumber": 155,
