@@ -734,10 +734,10 @@
       "chapterNumber": 81,
       "title": "見習裁決者的第一天",
       "filePath": "第81章-見習裁決者的第一天.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 82,
