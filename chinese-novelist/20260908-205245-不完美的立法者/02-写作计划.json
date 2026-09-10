@@ -959,10 +959,10 @@
       "chapterNumber": 106,
       "title": "元老議會的召見",
       "filePath": "第106章-元老議會的召見.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3044,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 107,
