@@ -1220,10 +1220,10 @@
       "chapterNumber": 135,
       "title": "哈維爾退場",
       "filePath": "第135章-哈維爾退場.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3005,
+      "wordCountPass": true,
+      "retryCount": 5
     },
     {
       "chapterNumber": 136,
