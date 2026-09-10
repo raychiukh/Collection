@@ -2,11 +2,11 @@
   "version": 1,
   "novelName": "不完美的立法者",
   "projectPath": "./chinese-novelist/20260908-205245-不完美的立法者",
-  "totalChapters": 140,
+  "totalChapters": 170,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
-  "updatedAt": "2026-09-10",
-  "status": "completed",
+  "updatedAt": "2026-09-10T00:00:00Z",
+  "status": "in_progress",
   "writingMode": "serial",
   "notes": "第三部「派系之間」全部收束(81-140章)。111-140章為後半段:元老議會秘密檔案庫、維斯珀家族登場、哈維爾攤牌退場、格哈德與科爾賓淵源揭曉、奧克斯家族舊事、第三部收束危機與新平衡。依寫作鐵律第4條,立法者複數/選擇不立法完整真相仍不兌現,留待第六/七部。",
   "chapters": [
@@ -1269,6 +1269,276 @@
       "wordCount": 3007,
       "wordCountPass": true,
       "retryCount": 2
+    },
+    {
+      "chapterNumber": 141,
+      "title": "啟程",
+      "filePath": "第141章-啟程.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 142,
+      "title": "旅途上的暗流",
+      "filePath": "第142章-旅途上的暗流.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 143,
+      "title": "迷霧山地",
+      "filePath": "第143章-迷霧山地.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 144,
+      "title": "太古裁決院",
+      "filePath": "第144章-太古裁決院.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 145,
+      "title": "費奧娜·凱斯特",
+      "filePath": "第145章-費奧娜·凱斯特.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 146,
+      "title": "大裁決官阿卡迪亞斯",
+      "filePath": "第146章-大裁決官阿卡迪亞斯.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 147,
+      "title": "資格試煉的規則",
+      "filePath": "第147章-資格試煉的規則.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 148,
+      "title": "遠古懸案(上)",
+      "filePath": "第148章-遠古懸案(上).md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 149,
+      "title": "遠古懸案(下)",
+      "filePath": "第149章-遠古懸案(下).md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 150,
+      "title": "無法回頭的抉擇",
+      "filePath": "第150章-無法回頭的抉擇.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 151,
+      "title": "費奧娜的疑惑",
+      "filePath": "第151章-費奧娜的疑惑.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 152,
+      "title": "記錄長廊深處",
+      "filePath": "第152章-記錄長廊深處.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 153,
+      "title": "內部路線分歧浮現",
+      "filePath": "第153章-內部路線分歧浮現.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 154,
+      "title": "兩種守望",
+      "filePath": "第154章-兩種守望.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 155,
+      "title": "各自的試煉",
+      "filePath": "第155章-各自的試煉.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 156,
+      "title": "艾琳娜的立場再考驗",
+      "filePath": "第156章-艾琳娜的立場再考驗.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 157,
+      "title": "危機浮現",
+      "filePath": "第157章-危機浮現.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 158,
+      "title": "陰謀的痕跡",
+      "filePath": "第158章-陰謀的痕跡.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 159,
+      "title": "瑟梵塔的懷疑",
+      "filePath": "第159章-瑟梵塔的懷疑.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 160,
+      "title": "誤解與澄清",
+      "filePath": "第160章-誤解與澄清.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 161,
+      "title": "手記的召喚",
+      "filePath": "第161章-手記的召喚.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 162,
+      "title": "弱勢的邊界",
+      "filePath": "第162章-弱勢的邊界.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 163,
+      "title": "真正的試煉(上)",
+      "filePath": "第163章-真正的試煉(上).md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 164,
+      "title": "真正的試煉(中)",
+      "filePath": "第164章-真正的試煉(中).md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 165,
+      "title": "真正的試煉(下)",
+      "filePath": "第165章-真正的試煉(下).md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 166,
+      "title": "阿卡迪亞斯的認可",
+      "filePath": "第166章-阿卡迪亞斯的認可.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 167,
+      "title": "費奧娜的抉擇",
+      "filePath": "第167章-費奧娜的抉擇.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 168,
+      "title": "太古裁決院的餘波",
+      "filePath": "第168章-太古裁決院的餘波.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 169,
+      "title": "歸途前夕",
+      "filePath": "第169章-歸途前夕.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 170,
+      "title": "裁決之世(上)終章",
+      "filePath": "第170章-裁決之世(上)終章.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
     }
   ]
 }
