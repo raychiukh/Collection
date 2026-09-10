@@ -1175,10 +1175,10 @@
       "chapterNumber": 130,
       "title": "元老議會的裂痕",
       "filePath": "第130章-元老議會的裂痕.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 131,
