@@ -941,10 +941,10 @@
       "chapterNumber": 104,
       "title": "諾亞的消息",
       "filePath": "第104章-諾亞的消息.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 9
     },
     {
       "chapterNumber": 105,
