@@ -968,10 +968,10 @@
       "chapterNumber": 107,
       "title": "兩派之間",
       "filePath": "第107章-兩派之間.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3069,
+      "wordCountPass": true,
+      "retryCount": 6
     },
     {
       "chapterNumber": 108,
