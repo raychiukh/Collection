@@ -878,10 +878,10 @@
       "chapterNumber": 97,
       "title": "信任的裂痕",
       "filePath": "第97章-信任的裂痕.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 98,
