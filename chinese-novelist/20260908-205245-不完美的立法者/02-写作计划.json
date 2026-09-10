@@ -1301,10 +1301,10 @@
       "chapterNumber": 144,
       "title": "太古裁決院",
       "filePath": "第144章-太古裁決院.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3106,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 145,
