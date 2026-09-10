@@ -842,10 +842,10 @@
       "chapterNumber": 93,
       "title": "深夜來客",
       "filePath": "第93章-深夜來客.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 94,
