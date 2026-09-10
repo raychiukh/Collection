@@ -824,10 +824,10 @@
       "chapterNumber": 91,
       "title": "交鋒的訊號",
       "filePath": "第91章-交鋒的訊號.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 92,
