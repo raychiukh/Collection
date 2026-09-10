@@ -770,10 +770,10 @@
       "chapterNumber": 85,
       "title": "世界元老議會",
       "filePath": "第85章-世界元老議會.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3012,
+      "wordCountPass": true,
+      "retryCount": 4
     },
     {
       "chapterNumber": 86,
