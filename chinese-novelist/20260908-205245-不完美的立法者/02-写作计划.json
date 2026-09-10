@@ -779,10 +779,10 @@
       "chapterNumber": 86,
       "title": "新的委託",
       "filePath": "第86章-新的委託.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 87,
