@@ -6,7 +6,7 @@
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
   "updatedAt": "2026-09-10",
-  "status": "in_progress",
+  "status": "completed",
   "writingMode": "serial",
   "notes": "第三部「派系之間」第一批(81-110章,共30章):瑟梵塔以見習裁決者候補身分捲入裁決所與世界元老議會的派系政治,承辦西境礦脈糾紛案,並透過秘史官以利亞·科爾賓揭開「羅儂家族立法者祖先並非孤例」的片段線索;哈維爾暗中反撲,凱爾·奧克斯代表防範派與瑟梵塔展開治理哲學交鋒;艾琳娜展開體制外辯護之路,蘭道夫的家族繼承之爭迎來階段性結果。",
   "chapters": [
@@ -995,10 +995,10 @@
       "chapterNumber": 110,
       "title": "派系之間(上)終章",
       "filePath": "第110章-派系之間(上)終章.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 9
     }
   ]
 }
