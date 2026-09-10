@@ -752,10 +752,10 @@
       "chapterNumber": 83,
       "title": "兩種信念",
       "filePath": "第83章-兩種信念.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 14
     },
     {
       "chapterNumber": 84,
