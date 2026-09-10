@@ -986,10 +986,10 @@
       "chapterNumber": 109,
       "title": "餘震",
       "filePath": "第109章-餘震.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 110,
