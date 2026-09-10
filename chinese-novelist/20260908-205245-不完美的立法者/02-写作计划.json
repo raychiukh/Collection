@@ -1004,10 +1004,10 @@
       "chapterNumber": 111,
       "title": "秘密檔案庫",
       "filePath": "第111章-秘密檔案庫.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 13
     },
     {
       "chapterNumber": 112,
