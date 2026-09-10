@@ -1526,10 +1526,10 @@
       "chapterNumber": 169,
       "title": "歸途前夕",
       "filePath": "第169章-歸途前夕.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 170,
