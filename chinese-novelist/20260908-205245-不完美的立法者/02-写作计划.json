@@ -1157,10 +1157,10 @@
       "chapterNumber": 128,
       "title": "奧克斯的贖罪",
       "filePath": "第128章-奧克斯的贖罪.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 129,
