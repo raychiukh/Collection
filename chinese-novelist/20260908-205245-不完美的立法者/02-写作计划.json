@@ -1022,10 +1022,10 @@
       "chapterNumber": 113,
       "title": "選擇不立法",
       "filePath": "第113章-選擇不立法.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 114,
