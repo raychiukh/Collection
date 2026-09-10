@@ -1328,10 +1328,10 @@
       "chapterNumber": 147,
       "title": "資格試煉的規則",
       "filePath": "第147章-資格試煉的規則.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 148,
