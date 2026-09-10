@@ -1148,10 +1148,10 @@
       "chapterNumber": 127,
       "title": "凱爾的心結",
       "filePath": "第127章-凱爾的心結.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3005,
+      "wordCountPass": true,
+      "retryCount": 5
     },
     {
       "chapterNumber": 128,
