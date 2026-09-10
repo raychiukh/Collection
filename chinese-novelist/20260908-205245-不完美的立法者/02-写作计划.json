@@ -932,10 +932,10 @@
       "chapterNumber": 103,
       "title": "立場的考驗",
       "filePath": "第103章-立場的考驗.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 104,
