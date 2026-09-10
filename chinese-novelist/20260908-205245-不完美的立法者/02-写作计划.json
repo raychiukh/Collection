@@ -1184,10 +1184,10 @@
       "chapterNumber": 131,
       "title": "艾琳娜的重大考驗",
       "filePath": "第131章-艾琳娜的重大考驗.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3002,
+      "wordCountPass": true,
+      "retryCount": 14
     },
     {
       "chapterNumber": 132,
