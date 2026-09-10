@@ -1364,10 +1364,10 @@
       "chapterNumber": 151,
       "title": "費奧娜的疑惑",
       "filePath": "第151章-費奧娜的疑惑.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 16
     },
     {
       "chapterNumber": 152,
