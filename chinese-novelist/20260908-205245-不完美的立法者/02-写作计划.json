@@ -950,10 +950,10 @@
       "chapterNumber": 105,
       "title": "格哈德的憂慮",
       "filePath": "第105章-格哈德的憂慮.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3030,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 106,
