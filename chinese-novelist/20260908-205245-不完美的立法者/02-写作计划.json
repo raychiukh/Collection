@@ -1427,10 +1427,10 @@
       "chapterNumber": 158,
       "title": "陰謀的痕跡",
       "filePath": "第158章-陰謀的痕跡.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 159,
