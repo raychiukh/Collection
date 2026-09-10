@@ -1454,10 +1454,10 @@
       "chapterNumber": 161,
       "title": "手記的召喚",
       "filePath": "第161章-手記的召喚.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 22
     },
     {
       "chapterNumber": 162,
