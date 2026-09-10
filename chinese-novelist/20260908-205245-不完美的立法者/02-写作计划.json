@@ -1400,10 +1400,10 @@
       "chapterNumber": 155,
       "title": "各自的試煉",
       "filePath": "第155章-各自的試煉.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3004,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 156,
