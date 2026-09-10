@@ -1499,10 +1499,10 @@
       "chapterNumber": 166,
       "title": "阿卡迪亞斯的認可",
       "filePath": "第166章-阿卡迪亞斯的認可.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3177,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 167,
