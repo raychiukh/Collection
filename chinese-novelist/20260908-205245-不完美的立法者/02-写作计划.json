@@ -1310,10 +1310,10 @@
       "chapterNumber": 145,
       "title": "費奧娜·凱斯特",
       "filePath": "第145章-費奧娜·凱斯特.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 146,
