@@ -833,10 +833,10 @@
       "chapterNumber": 92,
       "title": "凡霍恩的算計",
       "filePath": "第92章-凡霍恩的算計.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3034,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 93,
