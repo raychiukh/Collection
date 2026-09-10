@@ -923,10 +923,10 @@
       "chapterNumber": 102,
       "title": "艾琳娜的挑戰",
       "filePath": "第102章-艾琳娜的挑戰.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3004,
+      "wordCountPass": true,
+      "retryCount": 8
     },
     {
       "chapterNumber": 103,
