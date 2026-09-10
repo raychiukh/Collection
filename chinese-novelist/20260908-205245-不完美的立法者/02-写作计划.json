@@ -1040,10 +1040,10 @@
       "chapterNumber": 115,
       "title": "蘭道夫的最終考核",
       "filePath": "第115章-蘭道夫的最終考核.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 17
     },
     {
       "chapterNumber": 116,
