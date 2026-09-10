@@ -1238,10 +1238,10 @@
       "chapterNumber": 137,
       "title": "餘波",
       "filePath": "第137章-餘波.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3068,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 138,
