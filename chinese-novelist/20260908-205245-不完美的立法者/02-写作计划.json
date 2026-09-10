@@ -1202,10 +1202,10 @@
       "chapterNumber": 133,
       "title": "抉擇與代價",
       "filePath": "第133章-抉擇與代價.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 9
     },
     {
       "chapterNumber": 134,
