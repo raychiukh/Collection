@@ -1166,10 +1166,10 @@
       "chapterNumber": 129,
       "title": "維斯珀的野心浮現",
       "filePath": "第129章-維斯珀的野心浮現.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3002,
+      "wordCountPass": true,
+      "retryCount": 13
     },
     {
       "chapterNumber": 130,
