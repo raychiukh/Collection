@@ -1139,10 +1139,10 @@
       "chapterNumber": 126,
       "title": "三線交會",
       "filePath": "第126章-三線交會.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 127,
