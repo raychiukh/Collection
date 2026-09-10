@@ -887,10 +887,10 @@
       "chapterNumber": 98,
       "title": "抉擇的邊界",
       "filePath": "第98章-抉擇的邊界.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3118,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 99,
