@@ -1292,10 +1292,10 @@
       "chapterNumber": 143,
       "title": "迷霧山地",
       "filePath": "第143章-迷霧山地.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 11
     },
     {
       "chapterNumber": 144,
