@@ -1418,10 +1418,10 @@
       "chapterNumber": 157,
       "title": "危機浮現",
       "filePath": "第157章-危機浮現.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 20
     },
     {
       "chapterNumber": 158,
