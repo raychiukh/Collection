@@ -815,10 +815,10 @@
       "chapterNumber": 90,
       "title": "艾琳娜的第一步",
       "filePath": "第90章-艾琳娜的第一步.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 20
     },
     {
       "chapterNumber": 91,
