@@ -1058,10 +1058,10 @@
       "chapterNumber": 117,
       "title": "維斯珀的初次登場",
       "filePath": "第117章-維斯珀的初次登場.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 14
     },
     {
       "chapterNumber": 118,
