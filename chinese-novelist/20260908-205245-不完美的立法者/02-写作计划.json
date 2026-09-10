@@ -788,10 +788,10 @@
       "chapterNumber": 87,
       "title": "舊識新對手",
       "filePath": "第87章-舊識新對手.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3002,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 88,
