@@ -1535,10 +1535,10 @@
       "chapterNumber": 170,
       "title": "裁決之世(上)終章",
       "filePath": "第170章-裁決之世(上)終章.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3090,
+      "wordCountPass": true,
+      "retryCount": 3
     }
   ]
 }
