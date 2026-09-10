@@ -806,10 +806,10 @@
       "chapterNumber": 89,
       "title": "蘭道夫的答案",
       "filePath": "第89章-蘭道夫的答案.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 90,
