@@ -1346,10 +1346,10 @@
       "chapterNumber": 149,
       "title": "遠古懸案(下)",
       "filePath": "第149章-遠古懸案(下).md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 18
     },
     {
       "chapterNumber": 150,
