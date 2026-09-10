@@ -851,10 +851,10 @@
       "chapterNumber": 94,
       "title": "秘史官",
       "filePath": "第94章-秘史官.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3070,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 95,
