@@ -1112,10 +1112,10 @@
       "chapterNumber": 123,
       "title": "格哈德的告白(上)",
       "filePath": "第123章-格哈德的告白(上).md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3025,
+      "wordCountPass": true,
+      "retryCount": 5
     },
     {
       "chapterNumber": 124,
