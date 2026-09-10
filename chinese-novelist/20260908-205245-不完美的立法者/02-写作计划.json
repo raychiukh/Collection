@@ -2,13 +2,13 @@
   "version": 1,
   "novelName": "不完美的立法者",
   "projectPath": "./chinese-novelist/20260908-205245-不完美的立法者",
-  "totalChapters": 80,
+  "totalChapters": 110,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
-  "updatedAt": "2026-09-09",
-  "status": "completed",
+  "updatedAt": "2026-09-10",
+  "status": "in_progress",
   "writingMode": "serial",
-  "notes": "第一部「異界法典」(1-30章)已完成。第二部「學院裁解」前20章(31-50章)已完成。本次新增規劃第二部後30章(51-80章)，完成後第二部正式收官，銜接第三部「派系之間」(81-140章，待後續規劃)。核心事件：格哈德揭曉自己是十五年前北境水權案化名書記官，瑟梵塔一行推動舊案重審，最終促成「不完美卻真實」的平反，詳見 00-世界觀母設定.md 二十二至二十四節。第二部起瑟梵塔日常對話維持口語化語氣，見 03-文風基準.md。",
+  "notes": "第三部「派系之間」第一批(81-110章,共30章):瑟梵塔以見習裁決者候補身分捲入裁決所與世界元老議會的派系政治,承辦西境礦脈糾紛案,並透過秘史官以利亞·科爾賓揭開「羅儂家族立法者祖先並非孤例」的片段線索;哈維爾暗中反撲,凱爾·奧克斯代表防範派與瑟梵塔展開治理哲學交鋒;艾琳娜展開體制外辯護之路,蘭道夫的家族繼承之爭迎來階段性結果。",
   "chapters": [
     {
       "chapterNumber": 1,
@@ -729,6 +729,276 @@
       "wordCount": 3013,
       "wordCountPass": true,
       "retryCount": 2
+    },
+    {
+      "chapterNumber": 81,
+      "title": "見習裁決者的第一天",
+      "filePath": "第81章-見習裁決者的第一天.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 82,
+      "title": "派系的縮影",
+      "filePath": "第82章-派系的縮影.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 83,
+      "title": "兩種信念",
+      "filePath": "第83章-兩種信念.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 84,
+      "title": "受邀",
+      "filePath": "第84章-受邀.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 85,
+      "title": "世界元老議會",
+      "filePath": "第85章-世界元老議會.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 86,
+      "title": "新的委託",
+      "filePath": "第86章-新的委託.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 87,
+      "title": "舊識新對手",
+      "filePath": "第87章-舊識新對手.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 88,
+      "title": "維蘭家族的抉擇",
+      "filePath": "第88章-維蘭家族的抉擇.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 89,
+      "title": "蘭道夫的答案",
+      "filePath": "第89章-蘭道夫的答案.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 90,
+      "title": "艾琳娜的第一步",
+      "filePath": "第90章-艾琳娜的第一步.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 91,
+      "title": "交鋒的訊號",
+      "filePath": "第91章-交鋒的訊號.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 92,
+      "title": "凡霍恩的算計",
+      "filePath": "第92章-凡霍恩的算計.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 93,
+      "title": "深夜來客",
+      "filePath": "第93章-深夜來客.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 94,
+      "title": "秘史官",
+      "filePath": "第94章-秘史官.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 95,
+      "title": "立法者的複數",
+      "filePath": "第95章-立法者的複數.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 96,
+      "title": "哈維爾的反撲",
+      "filePath": "第96章-哈維爾的反撲.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 97,
+      "title": "信任的裂痕",
+      "filePath": "第97章-信任的裂痕.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 98,
+      "title": "抉擇的邊界",
+      "filePath": "第98章-抉擇的邊界.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 99,
+      "title": "議事廳的交鋒",
+      "filePath": "第99章-議事廳的交鋒.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 100,
+      "title": "不完美的裁定",
+      "filePath": "第100章-不完美的裁定.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 101,
+      "title": "暗影裡的哈維爾",
+      "filePath": "第101章-暗影裡的哈維爾.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 102,
+      "title": "艾琳娜的挑戰",
+      "filePath": "第102章-艾琳娜的挑戰.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 103,
+      "title": "立場的考驗",
+      "filePath": "第103章-立場的考驗.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 104,
+      "title": "諾亞的消息",
+      "filePath": "第104章-諾亞的消息.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 105,
+      "title": "格哈德的憂慮",
+      "filePath": "第105章-格哈德的憂慮.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 106,
+      "title": "元老議會的召見",
+      "filePath": "第106章-元老議會的召見.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 107,
+      "title": "兩派之間",
+      "filePath": "第107章-兩派之間.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 108,
+      "title": "選擇不選邊",
+      "filePath": "第108章-選擇不選邊.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 109,
+      "title": "餘震",
+      "filePath": "第109章-餘震.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 110,
+      "title": "派系之間(上)終章",
+      "filePath": "第110章-派系之間(上)終章.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
     }
   ]
 }
