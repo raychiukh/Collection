@@ -2,13 +2,13 @@
   "version": 1,
   "novelName": "不完美的立法者",
   "projectPath": "./chinese-novelist/20260908-205245-不完美的立法者",
-  "totalChapters": 110,
+  "totalChapters": 140,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
   "updatedAt": "2026-09-10",
-  "status": "completed",
+  "status": "in_progress",
   "writingMode": "serial",
-  "notes": "第三部「派系之間」第一批(81-110章,共30章):瑟梵塔以見習裁決者候補身分捲入裁決所與世界元老議會的派系政治,承辦西境礦脈糾紛案,並透過秘史官以利亞·科爾賓揭開「羅儂家族立法者祖先並非孤例」的片段線索;哈維爾暗中反撲,凱爾·奧克斯代表防範派與瑟梵塔展開治理哲學交鋒;艾琳娜展開體制外辯護之路,蘭道夫的家族繼承之爭迎來階段性結果。",
+  "notes": "第三部「派系之間」全部收束(81-140章)。111-140章為後半段:元老議會秘密檔案庫、維斯珀家族登場、哈維爾攤牌退場、格哈德與科爾賓淵源揭曉、奧克斯家族舊事、第三部收束危機與新平衡。依寫作鐵律第4條,立法者複數/選擇不立法完整真相仍不兌現,留待第六/七部。",
   "chapters": [
     {
       "chapterNumber": 1,
@@ -999,6 +999,276 @@
       "wordCount": 3001,
       "wordCountPass": true,
       "retryCount": 9
+    },
+    {
+      "chapterNumber": 111,
+      "title": "秘密檔案庫",
+      "filePath": "第111章-秘密檔案庫.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 112,
+      "title": "塵封的名冊",
+      "filePath": "第112章-塵封的名冊.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 113,
+      "title": "選擇不立法",
+      "filePath": "第113章-選擇不立法.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 114,
+      "title": "坦誠歸來",
+      "filePath": "第114章-坦誠歸來.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 115,
+      "title": "蘭道夫的最終考核",
+      "filePath": "第115章-蘭道夫的最終考核.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 116,
+      "title": "蘭道夫的加冕",
+      "filePath": "第116章-蘭道夫的加冕.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 117,
+      "title": "維斯珀的初次登場",
+      "filePath": "第117章-維斯珀的初次登場.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 118,
+      "title": "試探與交鋒",
+      "filePath": "第118章-試探與交鋒.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 119,
+      "title": "哈維爾的困獸之鬥",
+      "filePath": "第119章-哈維爾的困獸之鬥.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 120,
+      "title": "古老家族的證據",
+      "filePath": "第120章-古老家族的證據.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 121,
+      "title": "攤牌哈維爾(上)",
+      "filePath": "第121章-攤牌哈維爾(上).md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 122,
+      "title": "攤牌哈維爾(下)",
+      "filePath": "第122章-攤牌哈維爾(下).md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 123,
+      "title": "格哈德的告白(上)",
+      "filePath": "第123章-格哈德的告白(上).md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 124,
+      "title": "格哈德的告白(下)",
+      "filePath": "第124章-格哈德的告白(下).md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 125,
+      "title": "修道院之行",
+      "filePath": "第125章-修道院之行.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 126,
+      "title": "三線交會",
+      "filePath": "第126章-三線交會.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 127,
+      "title": "凱爾的心結",
+      "filePath": "第127章-凱爾的心結.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 128,
+      "title": "奧克斯的贖罪",
+      "filePath": "第128章-奧克斯的贖罪.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 129,
+      "title": "維斯珀的野心浮現",
+      "filePath": "第129章-維斯珀的野心浮現.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 130,
+      "title": "元老議會的裂痕",
+      "filePath": "第130章-元老議會的裂痕.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 131,
+      "title": "艾琳娜的重大考驗",
+      "filePath": "第131章-艾琳娜的重大考驗.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 132,
+      "title": "危機交織",
+      "filePath": "第132章-危機交織.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 133,
+      "title": "抉擇與代價",
+      "filePath": "第133章-抉擇與代價.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 134,
+      "title": "反擊",
+      "filePath": "第134章-反擊.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 135,
+      "title": "哈維爾退場",
+      "filePath": "第135章-哈維爾退場.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 136,
+      "title": "維斯珀的暫退",
+      "filePath": "第136章-維斯珀的暫退.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 137,
+      "title": "餘波",
+      "filePath": "第137章-餘波.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 138,
+      "title": "新的平衡",
+      "filePath": "第138章-新的平衡.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 139,
+      "title": "家族之名的重量",
+      "filePath": "第139章-家族之名的重量.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 140,
+      "title": "派系之間(下)終章",
+      "filePath": "第140章-派系之間(下)終章.md",
+      "status": "pending",
+      "wordCount": null,
+      "wordCountPass": null,
+      "retryCount": 0
     }
   ]
 }
