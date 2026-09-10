@@ -1130,10 +1130,10 @@
       "chapterNumber": 125,
       "title": "修道院之行",
       "filePath": "第125章-修道院之行.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 126,
