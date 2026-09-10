@@ -1517,10 +1517,10 @@
       "chapterNumber": 168,
       "title": "太古裁決院的餘波",
       "filePath": "第168章-太古裁決院的餘波.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3030,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 169,
