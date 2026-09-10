@@ -761,10 +761,10 @@
       "chapterNumber": 84,
       "title": "受邀",
       "filePath": "第84章-受邀.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 85,
