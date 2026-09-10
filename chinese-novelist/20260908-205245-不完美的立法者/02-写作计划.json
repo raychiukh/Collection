@@ -1229,10 +1229,10 @@
       "chapterNumber": 136,
       "title": "維斯珀的暫退",
       "filePath": "第136章-維斯珀的暫退.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3131,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 137,
