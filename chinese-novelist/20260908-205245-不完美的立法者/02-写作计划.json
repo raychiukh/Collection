@@ -1067,10 +1067,10 @@
       "chapterNumber": 118,
       "title": "試探與交鋒",
       "filePath": "第118章-試探與交鋒.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 5
     },
     {
       "chapterNumber": 119,
