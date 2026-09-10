@@ -869,10 +869,10 @@
       "chapterNumber": 96,
       "title": "哈維爾的反撲",
       "filePath": "第96章-哈維爾的反撲.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 97,
