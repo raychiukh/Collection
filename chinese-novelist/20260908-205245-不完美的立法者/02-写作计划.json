@@ -1247,10 +1247,10 @@
       "chapterNumber": 138,
       "title": "新的平衡",
       "filePath": "第138章-新的平衡.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 11
     },
     {
       "chapterNumber": 139,
