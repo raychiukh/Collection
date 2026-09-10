@@ -1085,10 +1085,10 @@
       "chapterNumber": 120,
       "title": "古老家族的證據",
       "filePath": "第120章-古老家族的證據.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 121,
