@@ -743,10 +743,10 @@
       "chapterNumber": 82,
       "title": "派系的縮影",
       "filePath": "第82章-派系的縮影.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 83,
