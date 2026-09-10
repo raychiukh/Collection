@@ -1355,10 +1355,10 @@
       "chapterNumber": 150,
       "title": "無法回頭的抉擇",
       "filePath": "第150章-無法回頭的抉擇.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 14
     },
     {
       "chapterNumber": 151,
