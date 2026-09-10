@@ -905,10 +905,10 @@
       "chapterNumber": 100,
       "title": "不完美的裁定",
       "filePath": "第100章-不完美的裁定.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3109,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 101,
