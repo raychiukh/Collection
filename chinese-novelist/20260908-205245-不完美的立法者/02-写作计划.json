@@ -1274,10 +1274,10 @@
       "chapterNumber": 141,
       "title": "啟程",
       "filePath": "第141章-啟程.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 142,
