@@ -977,10 +977,10 @@
       "chapterNumber": 108,
       "title": "選擇不選邊",
       "filePath": "第108章-選擇不選邊.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3002,
+      "wordCountPass": true,
+      "retryCount": 9
     },
     {
       "chapterNumber": 109,
