@@ -1013,10 +1013,10 @@
       "chapterNumber": 112,
       "title": "塵封的名冊",
       "filePath": "第112章-塵封的名冊.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 11
     },
     {
       "chapterNumber": 113,
