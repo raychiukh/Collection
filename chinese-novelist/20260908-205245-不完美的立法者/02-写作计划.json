@@ -1337,10 +1337,10 @@
       "chapterNumber": 148,
       "title": "遠古懸案(上)",
       "filePath": "第148章-遠古懸案(上).md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 149,
