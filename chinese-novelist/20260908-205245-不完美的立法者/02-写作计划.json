@@ -1094,10 +1094,10 @@
       "chapterNumber": 121,
       "title": "攤牌哈維爾(上)",
       "filePath": "第121章-攤牌哈維爾(上).md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 122,
