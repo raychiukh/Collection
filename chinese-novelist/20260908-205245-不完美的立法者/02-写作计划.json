@@ -1472,10 +1472,10 @@
       "chapterNumber": 163,
       "title": "真正的試煉(上)",
       "filePath": "第163章-真正的試煉(上).md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3010,
+      "wordCountPass": true,
+      "retryCount": 4
     },
     {
       "chapterNumber": 164,
