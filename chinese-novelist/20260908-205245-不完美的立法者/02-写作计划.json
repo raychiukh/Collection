@@ -1373,10 +1373,10 @@
       "chapterNumber": 152,
       "title": "記錄長廊深處",
       "filePath": "第152章-記錄長廊深處.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3085,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 153,
