@@ -1076,10 +1076,10 @@
       "chapterNumber": 119,
       "title": "哈維爾的困獸之鬥",
       "filePath": "第119章-哈維爾的困獸之鬥.md",
-      "status": "pending",
-      "wordCount": null,
-      "wordCountPass": null,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 17
     },
     {
       "chapterNumber": 120,
