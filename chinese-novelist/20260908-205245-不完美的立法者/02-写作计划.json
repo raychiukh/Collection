@@ -2177,10 +2177,10 @@
     {
       "chapterNumber": 244,
       "title": "攤牌",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3110,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 245,
