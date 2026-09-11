@@ -2153,10 +2153,10 @@
     {
       "chapterNumber": 241,
       "title": "真相追查",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3062,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 242,
