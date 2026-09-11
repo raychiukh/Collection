@@ -2089,10 +2089,10 @@
     {
       "chapterNumber": 233,
       "title": "釋義試煉的規則",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3008,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 234,
