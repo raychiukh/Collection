@@ -1823,10 +1823,10 @@
       "chapterNumber": 202,
       "title": "艾琳娜的堅持",
       "filePath": "第202章-艾琳娜的堅持.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 14
     },
     {
       "chapterNumber": 203,
