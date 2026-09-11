@@ -2169,10 +2169,10 @@
     {
       "chapterNumber": 243,
       "title": "正統派的分裂",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3069,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 244,
