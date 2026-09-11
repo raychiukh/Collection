@@ -2017,10 +2017,10 @@
     {
       "chapterNumber": 224,
       "title": "以諾·索恩的接見",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3097,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 225,
