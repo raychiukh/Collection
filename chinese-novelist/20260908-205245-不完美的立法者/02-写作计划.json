@@ -1679,10 +1679,10 @@
       "chapterNumber": 186,
       "title": "手記的沉默",
       "filePath": "第186章-手記的沉默.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 187,
