@@ -1625,10 +1625,10 @@
       "chapterNumber": 180,
       "title": "信任的重新校準",
       "filePath": "第180章-信任的重新校準.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3100,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 181,
