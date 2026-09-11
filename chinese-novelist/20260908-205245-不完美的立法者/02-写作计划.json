@@ -1688,10 +1688,10 @@
       "chapterNumber": 187,
       "title": "危機的醞釀",
       "filePath": "第187章-危機的醞釀.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 8
     },
     {
       "chapterNumber": 188,
