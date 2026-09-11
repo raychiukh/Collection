@@ -2,11 +2,11 @@
   "version": 1,
   "novelName": "不完美的立法者",
   "projectPath": "./chinese-novelist/20260908-205245-不完美的立法者",
-  "totalChapters": 250,
+  "totalChapters": 300,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
   "updatedAt": "2026-09-10T00:00:00Z",
-  "status": "completed",
+  "status": "in_progress",
   "writingMode": "serial",
   "notes": "第三部「派系之間」全部收束(81-140章)。111-140章為後半段:元老議會秘密檔案庫、維斯珀家族登場、哈維爾攤牌退場、格哈德與科爾賓淵源揭曉、奧克斯家族舊事、第三部收束危機與新平衡。依寫作鐵律第4條,立法者複數/選擇不立法完整真相仍不兌現,留待第六/七部。",
   "chapters": [
@@ -2228,6 +2228,406 @@
       "status": "completed",
       "wordCount": 3494,
       "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 251,
+      "title": "歸程的重逢",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 252,
+      "title": "議會的反應",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 253,
+      "title": "蘭斯洛·奧登的召見",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 254,
+      "title": "費奧娜的來訪",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 255,
+      "title": "阿卡迪亞斯的驗證",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 256,
+      "title": "卡蜜拉的加入",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 257,
+      "title": "科爾賓的隻言片語",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 258,
+      "title": "蘭道夫的議會歷練",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 259,
+      "title": "艾琳娜的外交任務",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 260,
+      "title": "凱爾的家族壓力",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 261,
+      "title": "三方磋商的提議",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 262,
+      "title": "防範派的憂慮",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 263,
+      "title": "栽培派的支持",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 264,
+      "title": "蘭伯特的來信",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 265,
+      "title": "薇拉的消息",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 266,
+      "title": "深入紀錄庫",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 267,
+      "title": "殘缺的名冊",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 268,
+      "title": "「餘燼」的蹤跡",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 269,
+      "title": "夜半守衛",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 270,
+      "title": "交鋒",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 271,
+      "title": "灰使的登場",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 272,
+      "title": "阿卡迪亞斯的謹慎",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 273,
+      "title": "晨鐘塔的警訊",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 274,
+      "title": "提案受挫",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 275,
+      "title": "艾琳娜的堅持",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 276,
+      "title": "凱爾的家族調解",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 277,
+      "title": "灰使的交易",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 278,
+      "title": "瑟梵塔的抉擇",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 279,
+      "title": "反撲",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 280,
+      "title": "合力化解",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 281,
+      "title": "三方磋商正式召開",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 282,
+      "title": "各方立場",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 283,
+      "title": "灰使身分的部分揭露",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 284,
+      "title": "蘭伯特的證詞",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 285,
+      "title": "以諾的證詞",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 286,
+      "title": "科爾賓的證詞",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 287,
+      "title": "阿卡迪亞斯的裁決立場",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 288,
+      "title": "蘭道夫的方案",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 289,
+      "title": "艾琳娜的倡議",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 290,
+      "title": "凱爾的調停智慧",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 291,
+      "title": "決議的分歧",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 292,
+      "title": "瑟梵塔的證言",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 293,
+      "title": "灰使的最終行動",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 294,
+      "title": "節制的裁決",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 295,
+      "title": "歷史性決議",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 296,
+      "title": "瑟梵塔的提名",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 297,
+      "title": "夥伴們的反應",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 298,
+      "title": "薇拉與以諾的祝福",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 299,
+      "title": "收拾行囊",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 300,
+      "title": "釋義者終章",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
       "retryCount": 0
     }
   ]
