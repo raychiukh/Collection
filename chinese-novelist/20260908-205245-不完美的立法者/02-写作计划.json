@@ -2137,10 +2137,10 @@
     {
       "chapterNumber": 239,
       "title": "蘭伯特的陰謀浮現",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 240,
