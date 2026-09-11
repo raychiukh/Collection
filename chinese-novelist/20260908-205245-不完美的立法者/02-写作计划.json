@@ -1949,10 +1949,10 @@
       "chapterNumber": 216,
       "title": "歸屬的重量",
       "filePath": "第216章-歸屬的重量.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3192,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 217,
