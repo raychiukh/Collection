@@ -2201,10 +2201,10 @@
     {
       "chapterNumber": 247,
       "title": "薇拉的成長",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3009,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 248,
