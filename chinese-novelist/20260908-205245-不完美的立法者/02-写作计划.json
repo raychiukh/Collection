@@ -1553,10 +1553,10 @@
       "chapterNumber": 172,
       "title": "哈維爾的請援",
       "filePath": "第172章-哈維爾的請援.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3097,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 173,
