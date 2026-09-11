@@ -1733,10 +1733,10 @@
       "chapterNumber": 192,
       "title": "卡蜜拉的失蹤",
       "filePath": "第192章-卡蜜拉的失蹤.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 8
     },
     {
       "chapterNumber": 193,
