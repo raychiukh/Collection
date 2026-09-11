@@ -1796,10 +1796,10 @@
       "chapterNumber": 199,
       "title": "議會的分裂",
       "filePath": "第199章-議會的分裂.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 200,
