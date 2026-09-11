@@ -2033,10 +2033,10 @@
     {
       "chapterNumber": 226,
       "title": "解義議會",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3016,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 227,
