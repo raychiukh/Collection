@@ -1571,10 +1571,10 @@
       "chapterNumber": 174,
       "title": "消失的紀錄",
       "filePath": "第174章-消失的紀錄.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3015,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 175,
