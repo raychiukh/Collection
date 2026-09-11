@@ -2105,10 +2105,10 @@
     {
       "chapterNumber": 235,
       "title": "意外的阻力",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3040,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 236,
