@@ -2097,10 +2097,10 @@
     {
       "chapterNumber": 234,
       "title": "第一場試煉:古老判例",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 16
     },
     {
       "chapterNumber": 235,
