@@ -1643,10 +1643,10 @@
       "chapterNumber": 182,
       "title": "凱爾的抉擇",
       "filePath": "第182章-凱爾的抉擇.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 183,
