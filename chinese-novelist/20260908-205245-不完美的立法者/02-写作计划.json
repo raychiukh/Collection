@@ -1706,10 +1706,10 @@
       "chapterNumber": 189,
       "title": "拉維妮雅的立場",
       "filePath": "第189章-拉維妮雅的立場.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 190,
