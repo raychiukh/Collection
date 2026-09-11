@@ -1598,10 +1598,10 @@
       "chapterNumber": 177,
       "title": "葛蘭特的自白",
       "filePath": "第177章-葛蘭特的自白.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3013,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 178,
