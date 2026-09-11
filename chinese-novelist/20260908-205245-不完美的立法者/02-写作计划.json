@@ -1877,10 +1877,10 @@
       "chapterNumber": 208,
       "title": "議會的裁決",
       "filePath": "第208章-議會的裁決.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 20
     },
     {
       "chapterNumber": 209,
