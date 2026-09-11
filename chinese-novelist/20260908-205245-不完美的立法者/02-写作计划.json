@@ -1805,10 +1805,10 @@
       "chapterNumber": 200,
       "title": "最黑暗的時刻",
       "filePath": "第200章-最黑暗的時刻.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3049,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 201,
