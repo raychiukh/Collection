@@ -2145,10 +2145,10 @@
     {
       "chapterNumber": 240,
       "title": "危機時刻:試煉場的意外",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3029,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 241,
