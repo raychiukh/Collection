@@ -1895,10 +1895,10 @@
       "chapterNumber": 210,
       "title": "代價的清算",
       "filePath": "第210章-代價的清算.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3090,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 211,
