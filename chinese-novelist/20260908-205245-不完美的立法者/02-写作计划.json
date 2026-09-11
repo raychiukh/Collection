@@ -2065,10 +2065,10 @@
     {
       "chapterNumber": 230,
       "title": "蘭道夫的制度提案再挑戰",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3098,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 231,
