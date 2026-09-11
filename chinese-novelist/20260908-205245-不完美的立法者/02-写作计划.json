@@ -1580,10 +1580,10 @@
       "chapterNumber": 175,
       "title": "卡蜜拉·凡爾登",
       "filePath": "第175章-卡蜜拉·凡爾登.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 176,
