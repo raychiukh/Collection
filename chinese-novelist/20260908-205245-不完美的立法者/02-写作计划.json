@@ -1841,10 +1841,10 @@
       "chapterNumber": 204,
       "title": "凱爾的血脈",
       "filePath": "第204章-凱爾的血脈.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 205,
