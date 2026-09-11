@@ -2001,10 +2001,10 @@
     {
       "chapterNumber": 222,
       "title": "迷霧與鐘聲",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3117,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 223,
