@@ -1760,10 +1760,10 @@
       "chapterNumber": 195,
       "title": "真相的碎片",
       "filePath": "第195章-真相的碎片.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 196,
