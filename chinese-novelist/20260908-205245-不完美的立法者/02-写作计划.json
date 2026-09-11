@@ -1742,10 +1742,10 @@
       "chapterNumber": 193,
       "title": "追蹤的線索",
       "filePath": "第193章-追蹤的線索.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 6
     },
     {
       "chapterNumber": 194,
