@@ -1940,10 +1940,10 @@
       "chapterNumber": 215,
       "title": "立法者複數的迴響",
       "filePath": "第215章-立法者複數的迴響.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3082,
+      "wordCountPass": true,
+      "retryCount": 6
     },
     {
       "chapterNumber": 216,
