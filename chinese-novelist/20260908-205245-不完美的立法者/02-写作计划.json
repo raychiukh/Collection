@@ -1697,10 +1697,10 @@
       "chapterNumber": 188,
       "title": "科爾賓的警示",
       "filePath": "第188章-科爾賓的警示.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 189,
