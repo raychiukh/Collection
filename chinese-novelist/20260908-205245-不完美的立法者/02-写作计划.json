@@ -1922,10 +1922,10 @@
       "chapterNumber": 213,
       "title": "重新校準的信任",
       "filePath": "第213章-重新校準的信任.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 5
     },
     {
       "chapterNumber": 214,
