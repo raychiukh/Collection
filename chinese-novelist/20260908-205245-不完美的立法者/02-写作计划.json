@@ -2009,10 +2009,10 @@
     {
       "chapterNumber": 223,
       "title": "晨鐘塔的守門人",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3104,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 224,
