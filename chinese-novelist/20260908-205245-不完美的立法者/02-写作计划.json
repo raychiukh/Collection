@@ -1859,10 +1859,10 @@
       "chapterNumber": 206,
       "title": "賽勒斯的真面目",
       "filePath": "第206章-賽勒斯的真面目.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 207,
