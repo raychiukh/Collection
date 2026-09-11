@@ -2217,10 +2217,10 @@
     {
       "chapterNumber": 249,
       "title": "晨鐘之境的餘波",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3018,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 250,
