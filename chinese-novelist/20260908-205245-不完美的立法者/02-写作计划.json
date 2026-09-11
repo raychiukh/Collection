@@ -1769,10 +1769,10 @@
       "chapterNumber": 196,
       "title": "賽勒斯的圖謀",
       "filePath": "第196章-賽勒斯的圖謀.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 197,
