@@ -1967,10 +1967,10 @@
       "chapterNumber": 218,
       "title": "新的裁決者",
       "filePath": "第218章-新的裁決者.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3010,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 219,
