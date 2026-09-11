@@ -2,7 +2,7 @@
   "version": 1,
   "novelName": "不完美的立法者",
   "projectPath": "./chinese-novelist/20260908-205245-不完美的立法者",
-  "totalChapters": 170,
+  "totalChapters": 220,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
   "updatedAt": "2026-09-10T00:00:00Z",
@@ -1539,6 +1539,456 @@
       "wordCount": 3090,
       "wordCountPass": true,
       "retryCount": 3
+    },
+    {
+      "chapterNumber": 171,
+      "title": "風暴中心的議會",
+      "filePath": "第171章-風暴中心的議會.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 172,
+      "title": "哈維爾的請援",
+      "filePath": "第172章-哈維爾的請援.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 173,
+      "title": "科爾賓的憂慮",
+      "filePath": "第173章-科爾賓的憂慮.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 174,
+      "title": "消失的紀錄",
+      "filePath": "第174章-消失的紀錄.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 175,
+      "title": "卡蜜拉·凡爾登",
+      "filePath": "第175章-卡蜜拉·凡爾登.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 176,
+      "title": "陰影中的操盤者",
+      "filePath": "第176章-陰影中的操盤者.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 177,
+      "title": "葛蘭特的自白",
+      "filePath": "第177章-葛蘭特的自白.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 178,
+      "title": "家族的動盪",
+      "filePath": "第178章-家族的動盪.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 179,
+      "title": "艾琳娜的兩難",
+      "filePath": "第179章-艾琳娜的兩難.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 180,
+      "title": "信任的重新校準",
+      "filePath": "第180章-信任的重新校準.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 181,
+      "title": "蘭道夫的家族陰影",
+      "filePath": "第181章-蘭道夫的家族陰影.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 182,
+      "title": "凱爾的抉擇",
+      "filePath": "第182章-凱爾的抉擇.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 183,
+      "title": "議事廳的角力",
+      "filePath": "第183章-議事廳的角力.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 184,
+      "title": "賽勒斯的試探",
+      "filePath": "第184章-賽勒斯的試探.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 185,
+      "title": "凡爾登家的秘密",
+      "filePath": "第185章-凡爾登家的秘密.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 186,
+      "title": "手記的沉默",
+      "filePath": "第186章-手記的沉默.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 187,
+      "title": "危機的醞釀",
+      "filePath": "第187章-危機的醞釀.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 188,
+      "title": "科爾賓的警示",
+      "filePath": "第188章-科爾賓的警示.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 189,
+      "title": "拉維妮雅的立場",
+      "filePath": "第189章-拉維妮雅的立場.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 190,
+      "title": "風暴前的寧靜",
+      "filePath": "第190章-風暴前的寧靜.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 191,
+      "title": "提案的攻防",
+      "filePath": "第191章-提案的攻防.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 192,
+      "title": "卡蜜拉的失蹤",
+      "filePath": "第192章-卡蜜拉的失蹤.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 193,
+      "title": "追蹤的線索",
+      "filePath": "第193章-追蹤的線索.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 194,
+      "title": "藏身之處",
+      "filePath": "第194章-藏身之處.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 195,
+      "title": "真相的碎片",
+      "filePath": "第195章-真相的碎片.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 196,
+      "title": "賽勒斯的圖謀",
+      "filePath": "第196章-賽勒斯的圖謀.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 197,
+      "title": "對峙的邊緣",
+      "filePath": "第197章-對峙的邊緣.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 198,
+      "title": "裁決者的抉擇",
+      "filePath": "第198章-裁決者的抉擇.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 199,
+      "title": "議會的分裂",
+      "filePath": "第199章-議會的分裂.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 200,
+      "title": "最黑暗的時刻",
+      "filePath": "第200章-最黑暗的時刻.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 201,
+      "title": "反擊的契機",
+      "filePath": "第201章-反擊的契機.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 202,
+      "title": "艾琳娜的堅持",
+      "filePath": "第202章-艾琳娜的堅持.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 203,
+      "title": "蘭道夫的證言",
+      "filePath": "第203章-蘭道夫的證言.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 204,
+      "title": "凱爾的血脈",
+      "filePath": "第204章-凱爾的血脈.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 205,
+      "title": "餘燼之子的線索",
+      "filePath": "第205章-餘燼之子的線索.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 206,
+      "title": "賽勒斯的真面目",
+      "filePath": "第206章-賽勒斯的真面目.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 207,
+      "title": "政治風暴的核心",
+      "filePath": "第207章-政治風暴的核心.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 208,
+      "title": "議會的裁決",
+      "filePath": "第208章-議會的裁決.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 209,
+      "title": "不完美的和解",
+      "filePath": "第209章-不完美的和解.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 210,
+      "title": "代價的清算",
+      "filePath": "第210章-代價的清算.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 211,
+      "title": "卡蜜拉的抉擇",
+      "filePath": "第211章-卡蜜拉的抉擇.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 212,
+      "title": "凡爾登家族的未來",
+      "filePath": "第212章-凡爾登家族的未來.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 213,
+      "title": "重新校準的信任",
+      "filePath": "第213章-重新校準的信任.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 214,
+      "title": "阿卡迪亞斯的來信",
+      "filePath": "第214章-阿卡迪亞斯的來信.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 215,
+      "title": "立法者複數的迴響",
+      "filePath": "第215章-立法者複數的迴響.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 216,
+      "title": "歸屬的重量",
+      "filePath": "第216章-歸屬的重量.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 217,
+      "title": "夥伴們的成長",
+      "filePath": "第217章-夥伴們的成長.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 218,
+      "title": "新的裁決者",
+      "filePath": "第218章-新的裁決者.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 219,
+      "title": "裁決之世(下)前夕",
+      "filePath": "第219章-裁決之世(下)前夕.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 220,
+      "title": "裁決之世終章",
+      "filePath": "第220章-裁決之世終章.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
     }
   ]
 }
