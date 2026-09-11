@@ -2193,10 +2193,10 @@
     {
       "chapterNumber": 246,
       "title": "晨鐘塔的正式表態",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3050,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 247,
