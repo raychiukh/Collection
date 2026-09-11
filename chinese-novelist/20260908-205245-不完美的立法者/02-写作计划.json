@@ -1850,10 +1850,10 @@
       "chapterNumber": 205,
       "title": "餘燼之子的線索",
       "filePath": "第205章-餘燼之子的線索.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3002,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 206,
