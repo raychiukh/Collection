@@ -2,11 +2,11 @@
   "version": 1,
   "novelName": "不完美的立法者",
   "projectPath": "./chinese-novelist/20260908-205245-不完美的立法者",
-  "totalChapters": 220,
+  "totalChapters": 250,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
   "updatedAt": "2026-09-10T00:00:00Z",
-  "status": "completed",
+  "status": "in_progress",
   "writingMode": "serial",
   "notes": "第三部「派系之間」全部收束(81-140章)。111-140章為後半段:元老議會秘密檔案庫、維斯珀家族登場、哈維爾攤牌退場、格哈德與科爾賓淵源揭曉、奧克斯家族舊事、第三部收束危機與新平衡。依寫作鐵律第4條,立法者複數/選擇不立法完整真相仍不兌現,留待第六/七部。",
   "chapters": [
@@ -1989,6 +1989,246 @@
       "wordCount": 3064,
       "wordCountPass": true,
       "retryCount": 2
+    },
+    {
+      "chapterNumber": 221,
+      "title": "啟程晨鐘之境",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 222,
+      "title": "迷霧與鐘聲",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 223,
+      "title": "晨鐘塔的守門人",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 224,
+      "title": "以諾·索恩的接見",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 225,
+      "title": "薇拉·索恩",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 226,
+      "title": "解義議會",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 227,
+      "title": "正統解義派的質疑",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 228,
+      "title": "古老紀錄室",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 229,
+      "title": "手記的異樣反應",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 230,
+      "title": "蘭道夫的制度提案再挑戰",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 231,
+      "title": "艾琳娜的外交考驗",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 232,
+      "title": "凱爾的調解試煉",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 233,
+      "title": "釋義試煉的規則",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 234,
+      "title": "第一場試煉:古老判例",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 235,
+      "title": "意外的阻力",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 236,
+      "title": "薇拉的秘密",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 237,
+      "title": "深夜討論",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 238,
+      "title": "第二場試煉:懸而未決的爭議",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 239,
+      "title": "蘭伯特的陰謀浮現",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 240,
+      "title": "危機時刻:試煉場的意外",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 241,
+      "title": "真相追查",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 242,
+      "title": "晨鐘之境的古老秘密",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 243,
+      "title": "正統派的分裂",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 244,
+      "title": "攤牌",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 245,
+      "title": "裁決者的智慧",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 246,
+      "title": "晨鐘塔的正式表態",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 247,
+      "title": "薇拉的成長",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 248,
+      "title": "通過試煉",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 249,
+      "title": "晨鐘之境的餘波",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 250,
+      "title": "釋義者(上)終章",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
     }
   ]
 }
