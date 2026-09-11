@@ -1886,10 +1886,10 @@
       "chapterNumber": 209,
       "title": "不完美的和解",
       "filePath": "第209章-不完美的和解.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 15
     },
     {
       "chapterNumber": 210,
