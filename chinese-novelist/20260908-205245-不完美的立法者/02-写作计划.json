@@ -1814,10 +1814,10 @@
       "chapterNumber": 201,
       "title": "反擊的契機",
       "filePath": "第201章-反擊的契機.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 8
     },
     {
       "chapterNumber": 202,
