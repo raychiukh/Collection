@@ -2593,10 +2593,10 @@
     {
       "chapterNumber": 296,
       "title": "瑟梵塔的提名",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3045,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 297,
