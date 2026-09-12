@@ -2489,10 +2489,10 @@
     {
       "chapterNumber": 283,
       "title": "灰使身分的部分揭露",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 284,
