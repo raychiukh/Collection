@@ -2385,10 +2385,10 @@
     {
       "chapterNumber": 270,
       "title": "交鋒",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3012,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 271,
