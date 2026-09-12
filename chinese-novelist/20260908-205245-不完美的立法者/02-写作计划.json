@@ -2609,10 +2609,10 @@
     {
       "chapterNumber": 298,
       "title": "薇拉與以諾的祝福",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3016,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 299,
