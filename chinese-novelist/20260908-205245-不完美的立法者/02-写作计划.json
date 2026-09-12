@@ -2337,10 +2337,10 @@
     {
       "chapterNumber": 264,
       "title": "蘭伯特的來信",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 265,
