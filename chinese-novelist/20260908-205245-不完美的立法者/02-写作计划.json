@@ -2297,10 +2297,10 @@
     {
       "chapterNumber": 259,
       "title": "艾琳娜的外交任務",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3155,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 260,
