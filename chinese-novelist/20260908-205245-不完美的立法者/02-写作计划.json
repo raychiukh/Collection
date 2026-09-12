@@ -2329,10 +2329,10 @@
     {
       "chapterNumber": 263,
       "title": "栽培派的支持",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3096,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 264,
