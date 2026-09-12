@@ -2577,10 +2577,10 @@
     {
       "chapterNumber": 294,
       "title": "節制的裁決",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 295,
