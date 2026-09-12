@@ -2289,10 +2289,10 @@
     {
       "chapterNumber": 258,
       "title": "蘭道夫的議會歷練",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 259,
