@@ -2353,10 +2353,10 @@
     {
       "chapterNumber": 266,
       "title": "深入紀錄庫",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3043,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 267,
