@@ -2417,10 +2417,10 @@
     {
       "chapterNumber": 274,
       "title": "提案受挫",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3051,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 275,
