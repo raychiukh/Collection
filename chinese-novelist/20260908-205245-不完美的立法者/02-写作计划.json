@@ -6,7 +6,7 @@
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
   "updatedAt": "2026-09-10T00:00:00Z",
-  "status": "in_progress",
+  "status": "completed",
   "writingMode": "serial",
   "notes": "第三部「派系之間」全部收束(81-140章)。111-140章為後半段:元老議會秘密檔案庫、維斯珀家族登場、哈維爾攤牌退場、格哈德與科爾賓淵源揭曉、奧克斯家族舊事、第三部收束危機與新平衡。依寫作鐵律第4條,立法者複數/選擇不立法完整真相仍不兌現,留待第六/七部。",
   "chapters": [
@@ -2625,10 +2625,10 @@
     {
       "chapterNumber": 300,
       "title": "釋義者終章",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     }
   ]
 }
