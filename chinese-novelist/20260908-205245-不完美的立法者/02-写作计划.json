@@ -2425,10 +2425,10 @@
     {
       "chapterNumber": 275,
       "title": "艾琳娜的堅持",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3039,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 276,
