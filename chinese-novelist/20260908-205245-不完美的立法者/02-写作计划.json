@@ -2241,10 +2241,10 @@
     {
       "chapterNumber": 252,
       "title": "議會的反應",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3045,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 253,
