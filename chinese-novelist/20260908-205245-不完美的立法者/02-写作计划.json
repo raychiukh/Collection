@@ -2441,10 +2441,10 @@
     {
       "chapterNumber": 277,
       "title": "灰使的交易",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3198,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 278,
