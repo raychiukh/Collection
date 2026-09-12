@@ -2249,10 +2249,10 @@
     {
       "chapterNumber": 253,
       "title": "蘭斯洛·奧登的召見",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3175,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 254,
