@@ -2585,10 +2585,10 @@
     {
       "chapterNumber": 295,
       "title": "歷史性決議",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 8
     },
     {
       "chapterNumber": 296,
