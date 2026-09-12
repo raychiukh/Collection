@@ -2257,10 +2257,10 @@
     {
       "chapterNumber": 254,
       "title": "費奧娜的來訪",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3004,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 255,
