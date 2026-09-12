@@ -2617,10 +2617,10 @@
     {
       "chapterNumber": 299,
       "title": "收拾行囊",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 11
     },
     {
       "chapterNumber": 300,
