@@ -2545,10 +2545,10 @@
     {
       "chapterNumber": 290,
       "title": "凱爾的調停智慧",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 291,
