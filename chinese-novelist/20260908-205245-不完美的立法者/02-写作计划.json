@@ -2361,10 +2361,10 @@
     {
       "chapterNumber": 267,
       "title": "殘缺的名冊",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3189,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 268,
