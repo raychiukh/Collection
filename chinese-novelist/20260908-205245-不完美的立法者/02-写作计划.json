@@ -2393,10 +2393,10 @@
     {
       "chapterNumber": 271,
       "title": "灰使的登場",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 272,
