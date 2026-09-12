@@ -2553,10 +2553,10 @@
     {
       "chapterNumber": 291,
       "title": "決議的分歧",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3102,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 292,
