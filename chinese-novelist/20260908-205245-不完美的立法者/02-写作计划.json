@@ -2521,10 +2521,10 @@
     {
       "chapterNumber": 287,
       "title": "阿卡迪亞斯的裁決立場",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3012,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 288,
