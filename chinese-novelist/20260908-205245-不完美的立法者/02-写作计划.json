@@ -2537,10 +2537,10 @@
     {
       "chapterNumber": 289,
       "title": "艾琳娜的倡議",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 4
     },
     {
       "chapterNumber": 290,
