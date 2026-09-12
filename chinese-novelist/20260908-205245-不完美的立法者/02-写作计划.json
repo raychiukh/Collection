@@ -2281,10 +2281,10 @@
     {
       "chapterNumber": 257,
       "title": "科爾賓的隻言片語",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3065,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 258,
