@@ -2233,10 +2233,10 @@
     {
       "chapterNumber": 251,
       "title": "歸程的重逢",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3088,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 252,
