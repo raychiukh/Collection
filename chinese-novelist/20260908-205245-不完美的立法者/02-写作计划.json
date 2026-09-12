@@ -2305,10 +2305,10 @@
     {
       "chapterNumber": 260,
       "title": "凱爾的家族壓力",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3013,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 261,
