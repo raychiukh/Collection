@@ -2457,10 +2457,10 @@
     {
       "chapterNumber": 279,
       "title": "反撲",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3140,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 280,
