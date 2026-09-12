@@ -2561,10 +2561,10 @@
     {
       "chapterNumber": 292,
       "title": "瑟梵塔的證言",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 5
     },
     {
       "chapterNumber": 293,
