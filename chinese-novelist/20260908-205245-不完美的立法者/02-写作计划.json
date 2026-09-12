@@ -2569,10 +2569,10 @@
     {
       "chapterNumber": 293,
       "title": "灰使的最終行動",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3093,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 294,
