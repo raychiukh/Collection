@@ -2473,10 +2473,10 @@
     {
       "chapterNumber": 281,
       "title": "三方磋商正式召開",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3022,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 282,
