@@ -2409,10 +2409,10 @@
     {
       "chapterNumber": 273,
       "title": "晨鐘塔的警訊",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3043,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 274,
