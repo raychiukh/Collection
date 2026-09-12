@@ -2345,10 +2345,10 @@
     {
       "chapterNumber": 265,
       "title": "薇拉的消息",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3156,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 266,
