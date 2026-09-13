@@ -2706,10 +2706,10 @@
       "chapterNumber": 309,
       "title": "試煉現場",
       "filePath": "第309章-試煉現場.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 310,
