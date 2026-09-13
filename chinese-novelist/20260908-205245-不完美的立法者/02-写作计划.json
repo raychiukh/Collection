@@ -2679,10 +2679,10 @@
       "chapterNumber": 306,
       "title": "舊案重詮試煉的公告",
       "filePath": "第306章-舊案重詮試煉的公告.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3002,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 307,
