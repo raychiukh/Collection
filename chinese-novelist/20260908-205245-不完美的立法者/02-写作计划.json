@@ -2715,10 +2715,10 @@
       "chapterNumber": 310,
       "title": "答辯的交鋒",
       "filePath": "第310章-答辯的交鋒.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 8
     },
     {
       "chapterNumber": 311,
