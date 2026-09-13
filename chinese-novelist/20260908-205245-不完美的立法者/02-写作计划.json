@@ -2643,10 +2643,10 @@
       "chapterNumber": 302,
       "title": "見證的召喚",
       "filePath": "第302章-見證的召喚.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3108,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 303,
