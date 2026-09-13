@@ -2634,10 +2634,10 @@
       "chapterNumber": 301,
       "title": "召集令的迴響",
       "filePath": "第301章-召集令的迴響.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3108,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 302,
