@@ -2,11 +2,11 @@
   "version": 1,
   "novelName": "不完美的立法者",
   "projectPath": "./chinese-novelist/20260908-205245-不完美的立法者",
-  "totalChapters": 300,
+  "totalChapters": 380,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
   "updatedAt": "2026-09-10T00:00:00Z",
-  "status": "completed",
+  "status": "in_progress",
   "writingMode": "serial",
   "notes": "第三部「派系之間」全部收束(81-140章)。111-140章為後半段:元老議會秘密檔案庫、維斯珀家族登場、哈維爾攤牌退場、格哈德與科爾賓淵源揭曉、奧克斯家族舊事、第三部收束危機與新平衡。依寫作鐵律第4條,立法者複數/選擇不立法完整真相仍不兌現,留待第六/七部。",
   "chapters": [
@@ -2629,6 +2629,366 @@
       "wordCount": 3000,
       "wordCountPass": true,
       "retryCount": 12
+    },
+    {
+      "chapterNumber": 301,
+      "title": "召集令的迴響",
+      "filePath": "第301章-召集令的迴響.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 302,
+      "title": "見證的召喚",
+      "filePath": "第302章-見證的召喚.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 303,
+      "title": "費奧娜的歸來",
+      "filePath": "第303章-費奧娜的歸來.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 304,
+      "title": "拉維妮雅的歸來",
+      "filePath": "第304章-拉維妮雅的歸來.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 305,
+      "title": "見證者議會初會",
+      "filePath": "第305章-見證者議會初會.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 306,
+      "title": "舊案重詮試煉的公告",
+      "filePath": "第306章-舊案重詮試煉的公告.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 307,
+      "title": "試煉的準備",
+      "filePath": "第307章-試煉的準備.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 308,
+      "title": "蘭伯特的提點",
+      "filePath": "第308章-蘭伯特的提點.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 309,
+      "title": "試煉現場",
+      "filePath": "第309章-試煉現場.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 310,
+      "title": "答辯的交鋒",
+      "filePath": "第310章-答辯的交鋒.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 311,
+      "title": "試煉的評議",
+      "filePath": "第311章-試煉的評議.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 312,
+      "title": "通過的代價",
+      "filePath": "第312章-通過的代價.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 313,
+      "title": "赤焰的第一次行動",
+      "filePath": "第313章-赤焰的第一次行動.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 314,
+      "title": "危機應對",
+      "filePath": "第314章-危機應對.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 315,
+      "title": "科爾特斯的身影",
+      "filePath": "第315章-科爾特斯的身影.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 316,
+      "title": "提伯里烏斯的震驚",
+      "filePath": "第316章-提伯里烏斯的震驚.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 317,
+      "title": "家族的裂痕",
+      "filePath": "第317章-家族的裂痕.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 318,
+      "title": "卡蜜拉的調查",
+      "filePath": "第318章-卡蜜拉的調查.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 319,
+      "title": "索恩紀錄室的線索",
+      "filePath": "第319章-索恩紀錄室的線索.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 320,
+      "title": "以諾的沉默",
+      "filePath": "第320章-以諾的沉默.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 321,
+      "title": "薇拉的困惑",
+      "filePath": "第321章-薇拉的困惑.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 322,
+      "title": "瑟梵塔的追問",
+      "filePath": "第322章-瑟梵塔的追問.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 323,
+      "title": "科爾賓的比對結果",
+      "filePath": "第323章-科爾賓的比對結果.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 324,
+      "title": "真相浮現的前夜",
+      "filePath": "第324章-真相浮現的前夜.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 325,
+      "title": "以諾的自白",
+      "filePath": "第325章-以諾的自白.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 326,
+      "title": "議會的震動",
+      "filePath": "第326章-議會的震動.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 327,
+      "title": "薇拉的抉擇",
+      "filePath": "第327章-薇拉的抉擇.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 328,
+      "title": "晨鐘塔的裂痕",
+      "filePath": "第328章-晨鐘塔的裂痕.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 329,
+      "title": "蘭伯特的立場",
+      "filePath": "第329章-蘭伯特的立場.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 330,
+      "title": "見證者議會的重組",
+      "filePath": "第330章-見證者議會的重組.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 331,
+      "title": "現實裁斷試煉的公告",
+      "filePath": "第331章-現實裁斷試煉的公告.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 332,
+      "title": "真實爭議的浮現",
+      "filePath": "第332章-真實爭議的浮現.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 333,
+      "title": "艾琳娜的路線分歧",
+      "filePath": "第333章-艾琳娜的路線分歧.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 334,
+      "title": "瑟梵塔的抉擇",
+      "filePath": "第334章-瑟梵塔的抉擇.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 335,
+      "title": "赤焰的威脅升級",
+      "filePath": "第335章-赤焰的威脅升級.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 336,
+      "title": "科爾特斯的現身",
+      "filePath": "第336章-科爾特斯的現身.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 337,
+      "title": "提伯里烏斯與科爾特斯",
+      "filePath": "第337章-提伯里烏斯與科爾特斯.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 338,
+      "title": "裁斷的完成",
+      "filePath": "第338章-裁斷的完成.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 339,
+      "title": "議會的評議",
+      "filePath": "第339章-議會的評議.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 340,
+      "title": "前半段終章",
+      "filePath": "第340章-前半段終章.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
     }
   ]
 }
