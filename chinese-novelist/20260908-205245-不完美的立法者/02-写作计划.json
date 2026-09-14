@@ -2724,10 +2724,10 @@
       "chapterNumber": 311,
       "title": "試煉的評議",
       "filePath": "第311章-試煉的評議.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3049,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 312,
