@@ -2733,10 +2733,10 @@
       "chapterNumber": 312,
       "title": "通過的代價",
       "filePath": "第312章-通過的代價.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 313,
