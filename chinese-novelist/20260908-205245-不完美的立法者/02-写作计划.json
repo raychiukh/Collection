@@ -2742,10 +2742,10 @@
       "chapterNumber": 313,
       "title": "赤焰的第一次行動",
       "filePath": "第313章-赤焰的第一次行動.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3059,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 314,
