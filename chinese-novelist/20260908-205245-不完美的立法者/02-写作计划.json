@@ -2805,10 +2805,10 @@
       "chapterNumber": 320,
       "title": "以諾的沉默",
       "filePath": "第320章-以諾的沉默.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3004,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 321,
