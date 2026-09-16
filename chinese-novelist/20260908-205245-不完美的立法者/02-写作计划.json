@@ -2787,10 +2787,10 @@
       "chapterNumber": 318,
       "title": "卡蜜拉的調查",
       "filePath": "第318章-卡蜜拉的調查.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 319,
