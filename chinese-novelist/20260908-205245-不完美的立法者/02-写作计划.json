@@ -2751,10 +2751,10 @@
       "chapterNumber": 314,
       "title": "危機應對",
       "filePath": "第314章-危機應對.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3021,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 315,
