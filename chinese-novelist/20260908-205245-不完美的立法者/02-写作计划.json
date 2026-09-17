@@ -2850,10 +2850,10 @@
       "chapterNumber": 325,
       "title": "以諾的自白",
       "filePath": "第325章-以諾的自白.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3043,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 326,
