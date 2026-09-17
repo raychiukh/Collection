@@ -2859,10 +2859,10 @@
       "chapterNumber": 326,
       "title": "議會的震動",
       "filePath": "第326章-議會的震動.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 8
     },
     {
       "chapterNumber": 327,
