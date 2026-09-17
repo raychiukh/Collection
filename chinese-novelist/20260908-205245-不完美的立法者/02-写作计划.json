@@ -2976,10 +2976,10 @@
       "chapterNumber": 339,
       "title": "議會的評議",
       "filePath": "第339章-議會的評議.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3068,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 340,
