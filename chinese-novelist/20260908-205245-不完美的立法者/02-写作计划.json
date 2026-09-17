@@ -2814,10 +2814,10 @@
       "chapterNumber": 321,
       "title": "薇拉的困惑",
       "filePath": "第321章-薇拉的困惑.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3067,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 322,
