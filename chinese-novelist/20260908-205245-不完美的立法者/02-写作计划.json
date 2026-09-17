@@ -2832,10 +2832,10 @@
       "chapterNumber": 323,
       "title": "科爾賓的比對結果",
       "filePath": "第323章-科爾賓的比對結果.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3015,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 324,
