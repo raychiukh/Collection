@@ -2895,10 +2895,10 @@
       "chapterNumber": 330,
       "title": "見證者議會的重組",
       "filePath": "第330章-見證者議會的重組.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3066,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 331,
