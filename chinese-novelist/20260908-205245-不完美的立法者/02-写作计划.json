@@ -2985,10 +2985,10 @@
       "chapterNumber": 340,
       "title": "前半段終章",
       "filePath": "第340章-前半段終章.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 1
     }
   ]
 }
