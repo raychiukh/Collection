@@ -2823,10 +2823,10 @@
       "chapterNumber": 322,
       "title": "瑟梵塔的追問",
       "filePath": "第322章-瑟梵塔的追問.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 12
     },
     {
       "chapterNumber": 323,
