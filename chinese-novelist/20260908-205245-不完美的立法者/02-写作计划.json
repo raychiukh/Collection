@@ -3030,10 +3030,10 @@
       "chapterNumber": 345,
       "title": "達米安的第一次現身",
       "filePath": "第345章-達米安的第一次現身.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3112,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 346,
