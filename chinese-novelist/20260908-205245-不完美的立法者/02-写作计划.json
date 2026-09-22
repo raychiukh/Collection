@@ -3174,10 +3174,10 @@
       "chapterNumber": 361,
       "title": "緊急戒備",
       "filePath": "第361章-緊急戒備.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3037,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 362,
