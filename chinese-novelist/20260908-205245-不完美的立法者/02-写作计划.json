@@ -3129,10 +3129,10 @@
       "chapterNumber": 356,
       "title": "艾琳娜的請辭",
       "filePath": "第356章-艾琳娜的請辭.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 357,
