@@ -3012,10 +3012,10 @@
       "chapterNumber": 343,
       "title": "赤焰的暗流",
       "filePath": "第343章-赤焰的暗流.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 344,
