@@ -2994,10 +2994,10 @@
       "chapterNumber": 341,
       "title": "密封文件的開啟",
       "filePath": "第341章-密封文件的開啟.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3126,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 342,
