@@ -3120,10 +3120,10 @@
       "chapterNumber": 355,
       "title": "漏洞的填補",
       "filePath": "第355章-漏洞的填補.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3206,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 356,
