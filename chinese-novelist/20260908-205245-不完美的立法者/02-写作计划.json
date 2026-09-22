@@ -3075,10 +3075,10 @@
       "chapterNumber": 350,
       "title": "方案的初步定稿",
       "filePath": "第350章-方案的初步定稿.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3040,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 351,
