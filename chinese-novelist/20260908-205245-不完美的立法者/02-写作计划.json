@@ -3084,10 +3084,10 @@
       "chapterNumber": 351,
       "title": "科爾特斯的求助",
       "filePath": "第351章-科爾特斯的求助.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3026,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 352,
