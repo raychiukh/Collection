@@ -3237,10 +3237,10 @@
       "chapterNumber": 368,
       "title": "科爾特斯的轉向",
       "filePath": "第368章-科爾特斯的轉向.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 369,
