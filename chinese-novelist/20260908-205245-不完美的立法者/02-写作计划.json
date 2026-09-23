@@ -3264,10 +3264,10 @@
       "chapterNumber": 371,
       "title": "羅儂紀錄殘頁",
       "filePath": "第371章-羅儂紀錄殘頁.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3024,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 372,
