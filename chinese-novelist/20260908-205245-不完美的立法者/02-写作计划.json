@@ -3219,10 +3219,10 @@
       "chapterNumber": 366,
       "title": "最後的衝突",
       "filePath": "第366章-最後的衝突.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3007,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 367,
