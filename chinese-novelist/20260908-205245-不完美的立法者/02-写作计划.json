@@ -3345,10 +3345,10 @@
       "chapterNumber": 380,
       "title": "立法者終章",
       "filePath": "第380章-立法者終章.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3269,
+      "wordCountPass": true,
+      "retryCount": 2
     }
   ]
 }
