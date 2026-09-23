@@ -3246,10 +3246,10 @@
       "chapterNumber": 369,
       "title": "試煉的重新啟動",
       "filePath": "第369章-試煉的重新啟動.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3006,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 370,
