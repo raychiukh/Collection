@@ -3255,10 +3255,10 @@
       "chapterNumber": 370,
       "title": "試煉的通過",
       "filePath": "第370章-試煉的通過.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3100,
+      "wordCountPass": true,
+      "retryCount": 1
     },
     {
       "chapterNumber": 371,
