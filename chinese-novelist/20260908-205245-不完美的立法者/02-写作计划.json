@@ -3417,10 +3417,10 @@
       "chapterNumber": 388,
       "title": "彼岸的第一縷霧色",
       "filePath": "第388章-彼岸的第一縷霧色.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 3
     },
     {
       "chapterNumber": 389,
