@@ -3435,10 +3435,10 @@
       "chapterNumber": 390,
       "title": "伊索貝爾的迎接",
       "filePath": "第390章-伊索貝爾的迎接.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3207,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 391,
