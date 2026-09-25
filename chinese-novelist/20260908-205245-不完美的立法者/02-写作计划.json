@@ -3552,10 +3552,10 @@
       "chapterNumber": 403,
       "title": "古老紀錄室",
       "filePath": "第403章-古老紀錄室.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3071,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 404,
