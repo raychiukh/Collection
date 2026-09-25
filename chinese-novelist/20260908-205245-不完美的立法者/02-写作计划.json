@@ -3381,10 +3381,10 @@
       "chapterNumber": 384,
       "title": "揚帆",
       "filePath": "第384章-揚帆.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3171,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 385,
