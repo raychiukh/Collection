@@ -3516,10 +3516,10 @@
       "chapterNumber": 399,
       "title": "沃斯的挑戰書",
       "filePath": "第399章-沃斯的挑戰書.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3074,
+      "wordCountPass": true,
+      "retryCount": 2
     },
     {
       "chapterNumber": 400,
