@@ -2,10 +2,10 @@
   "version": 1,
   "novelName": "不完美的立法者",
   "projectPath": "./chinese-novelist/20260908-205245-不完美的立法者",
-  "totalChapters": 380,
+  "totalChapters": 420,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
-  "updatedAt": "2026-09-23T00:00:00Z",
+  "updatedAt": "2026-09-25T00:00:00Z",
   "status": "in_progress",
   "writingMode": "serial",
   "notes": "第六部「立法者」全部收束(301-380章)。341-380章為後半段:權柄邊界試煉、赤焰內部裂解與達米安動搖、羅儂紀錄殘頁與『立法者複數』線索深化、艾琳娜離隊籌組獨立倡議組織、瑟梵塔完成制衡框架起草並簽署生效、三方聯席確認就任、正式獲授『受制衡的立法者』稱號。終章以一封遠方國度來信與羅儂殘頁悄然呼應收束,開啟第七部序幕。全書380章,共1,156,545字,全數達標。",
@@ -3349,6 +3349,366 @@
       "wordCount": 3269,
       "wordCountPass": true,
       "retryCount": 2
+    },
+    {
+      "chapterNumber": 381,
+      "title": "啟程的抉擇",
+      "filePath": "第381章-啟程的抉擇.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 382,
+      "title": "見證條款的借調",
+      "filePath": "第382章-見證條款的借調.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 383,
+      "title": "啟程前的準備",
+      "filePath": "第383章-啟程前的準備.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 384,
+      "title": "揚帆",
+      "filePath": "第384章-揚帆.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 385,
+      "title": "海上的風暴",
+      "filePath": "第385章-海上的風暴.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 386,
+      "title": "風暴後的沉澱",
+      "filePath": "第386章-風暴後的沉澱.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 387,
+      "title": "航行中的閒談",
+      "filePath": "第387章-航行中的閒談.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 388,
+      "title": "彼岸的第一縷霧色",
+      "filePath": "第388章-彼岸的第一縷霧色.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 389,
+      "title": "登岸",
+      "filePath": "第389章-登岸.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 390,
+      "title": "伊索貝爾的迎接",
+      "filePath": "第390章-伊索貝爾的迎接.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 391,
+      "title": "彼岸議庭的初次會晤",
+      "filePath": "第391章-彼岸議庭的初次會晤.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 392,
+      "title": "赫爾曼的質疑",
+      "filePath": "第392章-赫爾曼的質疑.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 393,
+      "title": "輪值體制的介紹",
+      "filePath": "第393章-輪值體制的介紹.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 394,
+      "title": "正統盟約派的抵制",
+      "filePath": "第394章-正統盟約派的抵制.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 395,
+      "title": "萊蒙的私下坦言",
+      "filePath": "第395章-萊蒙的私下坦言.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 396,
+      "title": "薇拉的意外發現",
+      "filePath": "第396章-薇拉的意外發現.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 397,
+      "title": "科爾賓的文獻比對",
+      "filePath": "第397章-科爾賓的文獻比對.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 398,
+      "title": "開放盟約派的支持",
+      "filePath": "第398章-開放盟約派的支持.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 399,
+      "title": "沃斯的挑戰書",
+      "filePath": "第399章-沃斯的挑戰書.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 400,
+      "title": "公開答辯",
+      "filePath": "第400章-公開答辯.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 401,
+      "title": "答辯的餘波",
+      "filePath": "第401章-答辯的餘波.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 402,
+      "title": "伊索貝爾的引路",
+      "filePath": "第402章-伊索貝爾的引路.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 403,
+      "title": "古老紀錄室",
+      "filePath": "第403章-古老紀錄室.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 404,
+      "title": "執炬者浩劫的彼岸傳說",
+      "filePath": "第404章-執炬者浩劫的彼岸傳說.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 405,
+      "title": "三處疆域的線索",
+      "filePath": "第405章-三處疆域的線索.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 406,
+      "title": "沃斯的秘密行動",
+      "filePath": "第406章-沃斯的秘密行動.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 407,
+      "title": "危機的伏筆",
+      "filePath": "第407章-危機的伏筆.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 408,
+      "title": "萊蒙的政治風險",
+      "filePath": "第408章-萊蒙的政治風險.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 409,
+      "title": "極端分支現身",
+      "filePath": "第409章-極端分支現身.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 410,
+      "title": "瑟梵塔的介入",
+      "filePath": "第410章-瑟梵塔的介入.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 411,
+      "title": "伊索貝爾的抉擇",
+      "filePath": "第411章-伊索貝爾的抉擇.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 412,
+      "title": "沃斯的動搖",
+      "filePath": "第412章-沃斯的動搖.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 413,
+      "title": "危機升級",
+      "filePath": "第413章-危機升級.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 414,
+      "title": "對峙",
+      "filePath": "第414章-對峙.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 415,
+      "title": "化解與代價",
+      "filePath": "第415章-化解與代價.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 416,
+      "title": "萊蒙的政治轉機",
+      "filePath": "第416章-萊蒙的政治轉機.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 417,
+      "title": "執炬者複數真相的部分公開",
+      "filePath": "第417章-執炬者複數真相的部分公開.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 418,
+      "title": "制衡框架成為橋樑",
+      "filePath": "第418章-制衡框架成為橋樑.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 419,
+      "title": "歸程前的沉澱",
+      "filePath": "第419章-歸程前的沉澱.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 420,
+      "title": "新的謎團與歸途啟航",
+      "filePath": "第420章-新的謎團與歸途啟航.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
     }
   ]
 }
