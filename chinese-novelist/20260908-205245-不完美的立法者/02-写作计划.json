@@ -3489,10 +3489,10 @@
       "chapterNumber": 396,
       "title": "薇拉的意外發現",
       "filePath": "第396章-薇拉的意外發現.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 5
     },
     {
       "chapterNumber": 397,
