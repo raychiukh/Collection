@@ -3660,10 +3660,10 @@
       "chapterNumber": 415,
       "title": "化解與代價",
       "filePath": "第415章-化解與代價.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 10
     },
     {
       "chapterNumber": 416,
