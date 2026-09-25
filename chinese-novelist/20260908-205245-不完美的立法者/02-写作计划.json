@@ -3597,10 +3597,10 @@
       "chapterNumber": 408,
       "title": "萊蒙的政治風險",
       "filePath": "第408章-萊蒙的政治風險.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 6
     },
     {
       "chapterNumber": 409,
