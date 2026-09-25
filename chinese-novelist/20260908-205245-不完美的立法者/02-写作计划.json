@@ -3534,10 +3534,10 @@
       "chapterNumber": 401,
       "title": "答辯的餘波",
       "filePath": "第401章-答辯的餘波.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3001,
+      "wordCountPass": true,
+      "retryCount": 8
     },
     {
       "chapterNumber": 402,
