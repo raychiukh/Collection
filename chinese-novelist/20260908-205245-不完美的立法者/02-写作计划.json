@@ -3696,10 +3696,10 @@
       "chapterNumber": 419,
       "title": "歸程前的沉澱",
       "filePath": "第419章-歸程前的沉澱.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
-      "retryCount": 0
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
+      "retryCount": 4
     },
     {
       "chapterNumber": 420,
