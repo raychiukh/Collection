@@ -2,10 +2,10 @@
   "version": 1,
   "novelName": "不完美的立法者",
   "projectPath": "./chinese-novelist/20260908-205245-不完美的立法者",
-  "totalChapters": 420,
+  "totalChapters": 460,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
-  "updatedAt": "2026-09-25T00:00:00Z",
+  "updatedAt": "2026-09-30T00:00:00Z",
   "status": "in_progress",
   "writingMode": "serial",
   "notes": "第七部「執炬者」前半段(381-420章)全部完成。核心：瑟梵塔以受制衡的立法者身分率薇拉、科爾賓遠渡重洋抵達彼岸之境,揭曉執炬者原是跨國度複數共治身分的浩瀚真相,經歷正統盟約派與開放盟約派路線之爭、淨岸會極端分支危機化解,促成彼岸議庭與已知世界建立長期聯繫。終章埋下第三處疆域(與太古裁決院紋飾相似)的新謎團,為第七部後半段鋪墊。全書420章,全數通過字數校驗。",
@@ -3709,6 +3709,366 @@
       "wordCount": 3001,
       "wordCountPass": true,
       "retryCount": 5
+    },
+    {
+      "chapterNumber": 421,
+      "title": "歸航",
+      "filePath": "第421章-歸航.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 422,
+      "title": "故土的港灣",
+      "filePath": "第422章-故土的港灣.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 423,
+      "title": "述職",
+      "filePath": "第423章-述職.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 424,
+      "title": "費奧娜的沉默",
+      "filePath": "第424章-費奧娜的沉默.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 425,
+      "title": "山中的霧",
+      "filePath": "第425章-山中的霧.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 426,
+      "title": "大裁決官的回答",
+      "filePath": "第426章-大裁決官的回答.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 427,
+      "title": "沒有簽名的代表團",
+      "filePath": "第427章-沒有簽名的代表團.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 428,
+      "title": "修復",
+      "filePath": "第428章-修復.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 429,
+      "title": "艾琳娜的來信",
+      "filePath": "第429章-艾琳娜的來信.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 430,
+      "title": "查封令",
+      "filePath": "第430章-查封令.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 431,
+      "title": "塞德里克",
+      "filePath": "第431章-塞德里克.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 432,
+      "title": "重逢",
+      "filePath": "第432章-重逢.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 433,
+      "title": "艾琳娜的路",
+      "filePath": "第433章-艾琳娜的路.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 434,
+      "title": "伊索貝爾抵達",
+      "filePath": "第434章-伊索貝爾抵達.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 435,
+      "title": "外洩",
+      "filePath": "第435章-外洩.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 436,
+      "title": "流言",
+      "filePath": "第436章-流言.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 437,
+      "title": "解散提案",
+      "filePath": "第437章-解散提案.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 438,
+      "title": "誰洩露的",
+      "filePath": "第438章-誰洩露的.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 439,
+      "title": "艾琳娜的立場",
+      "filePath": "第439章-艾琳娜的立場.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 440,
+      "title": "框架的第一次考驗",
+      "filePath": "第440章-框架的第一次考驗.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 441,
+      "title": "迴避",
+      "filePath": "第441章-迴避.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 442,
+      "title": "證人席",
+      "filePath": "第442章-證人席.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 443,
+      "title": "艾琳娜的證詞",
+      "filePath": "第443章-艾琳娜的證詞.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 444,
+      "title": "費奧娜的證詞",
+      "filePath": "第444章-費奧娜的證詞.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 445,
+      "title": "分階段公開",
+      "filePath": "第445章-分階段公開.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 446,
+      "title": "伊索貝爾的提議",
+      "filePath": "第446章-伊索貝爾的提議.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 447,
+      "title": "改革案",
+      "filePath": "第447章-改革案.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 448,
+      "title": "文獻館的鑰匙",
+      "filePath": "第448章-文獻館的鑰匙.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 449,
+      "title": "表決",
+      "filePath": "第449章-表決.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 450,
+      "title": "塞德里克的理由",
+      "filePath": "第450章-塞德里克的理由.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 451,
+      "title": "餘波",
+      "filePath": "第451章-餘波.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 452,
+      "title": "以諾的來訪",
+      "filePath": "第452章-以諾的來訪.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 453,
+      "title": "節氣",
+      "filePath": "第453章-節氣.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 454,
+      "title": "晨鐘",
+      "filePath": "第454章-晨鐘.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 455,
+      "title": "座標",
+      "filePath": "第455章-座標.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 456,
+      "title": "遠征的提議",
+      "filePath": "第456章-遠征的提議.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 457,
+      "title": "艾琳娜的請求",
+      "filePath": "第457章-艾琳娜的請求.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 458,
+      "title": "凱爾的歸來",
+      "filePath": "第458章-凱爾的歸來.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 459,
+      "title": "授權",
+      "filePath": "第459章-授權.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 460,
+      "title": "啟航彼方",
+      "filePath": "第460章-啟航彼方.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
     }
   ]
 }
