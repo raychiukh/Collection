@@ -3750,9 +3750,9 @@
       "chapterNumber": 425,
       "title": "山中的霧",
       "filePath": "第425章-山中的霧.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
+      "status": "completed",
+      "wordCount": 3003,
+      "wordCountPass": true,
       "retryCount": 0
     },
     {
