@@ -4281,9 +4281,9 @@
       "chapterNumber": 484,
       "title": "末年卷",
       "filePath": "第484章-末年卷.md",
-      "status": "pending",
-      "wordCount": 0,
-      "wordCountPass": false,
+      "status": "completed",
+      "wordCount": 3000,
+      "wordCountPass": true,
       "retryCount": 0
     },
     {
