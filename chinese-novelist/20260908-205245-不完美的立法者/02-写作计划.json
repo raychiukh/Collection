@@ -2,13 +2,13 @@
   "version": 1,
   "novelName": "不完美的立法者",
   "projectPath": "./chinese-novelist/20260908-205245-不完美的立法者",
-  "totalChapters": 460,
+  "totalChapters": 500,
   "minWordsPerChapter": 3000,
   "createdAt": "2026-09-08T21:01:15Z",
   "updatedAt": "2026-09-30T00:00:00Z",
-  "status": "completed",
+  "status": "in_progress",
   "writingMode": "serial",
-  "notes": "第七部「執炬者」全部完成(381-460章)。後半段(421-460章)自421章起回到第1-140章的自然文風。核心:凱斯特家族確認為彼方代表團後裔;塞德里克·格雷以「誰來監督守望者」發難、外洩殘字拓本,解散案被否、參照彼岸紀錄室章程的改革案以一票之差通過(大裁決官十年一任、三席輪值觀察、當事人查閱承審者認證紀錄);分階段公開方案通過;晨鐘長夜大應,第三道聲音未應而手記浮字;推定彼方位於議港西北三千里、霧牆海之後;遠征隊由費奧娜任隊長啟航,末頁揭曉羅儂未被選中的候選人隨彼方大船西去。全書460章,全數通過字數校驗。",
+  "notes": "第八部「彼方」前半段(461-500章)規劃完成,逐章串行寫作中。第七部「執炬者」全部完成(381-460章)。後半段(421-460章)自421章起回到第1-140章的自然文風。核心:凱斯特家族確認為彼方代表團後裔;塞德里克·格雷以「誰來監督守望者」發難、外洩殘字拓本,解散案被否、參照彼岸紀錄室章程的改革案以一票之差通過(大裁決官十年一任、三席輪值觀察、當事人查閱承審者認證紀錄);分階段公開方案通過;晨鐘長夜大應,第三道聲音未應而手記浮字;推定彼方位於議港西北三千里、霧牆海之後;遠征隊由費奧娜任隊長啟航,末頁揭曉羅儂未被選中的候選人隨彼方大船西去。全書460章,全數通過字數校驗。",
   "chapters": [
     {
       "chapterNumber": 1,
@@ -4068,6 +4068,366 @@
       "status": "completed",
       "wordCount": 3041,
       "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 461,
+      "title": "霧前十九日",
+      "filePath": "第461章-霧前十九日.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 462,
+      "title": "銅鈴",
+      "filePath": "第462章-銅鈴.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 463,
+      "title": "霧牆",
+      "filePath": "第463章-霧牆.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 464,
+      "title": "第一個決定",
+      "filePath": "第464章-第一個決定.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 465,
+      "title": "聽礁",
+      "filePath": "第465章-聽礁.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 466,
+      "title": "鈴道",
+      "filePath": "第466章-鈴道.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 467,
+      "title": "沉船",
+      "filePath": "第467章-沉船.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 468,
+      "title": "守與望",
+      "filePath": "第468章-守與望.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 469,
+      "title": "守燈人",
+      "filePath": "第469章-守燈人.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 470,
+      "title": "歸灣",
+      "filePath": "第470章-歸灣.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 471,
+      "title": "閉海例",
+      "filePath": "第471章-閉海例.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 472,
+      "title": "隆恩",
+      "filePath": "第472章-隆恩.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 473,
+      "title": "對頁",
+      "filePath": "第473章-對頁.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 474,
+      "title": "兩邊的抹除",
+      "filePath": "第474章-兩邊的抹除.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 475,
+      "title": "首誦官",
+      "filePath": "第475章-首誦官.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 476,
+      "title": "永不得離",
+      "filePath": "第476章-永不得離.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 477,
+      "title": "歸者例",
+      "filePath": "第477章-歸者例.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 478,
+      "title": "莉瑟",
+      "filePath": "第478章-莉瑟.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 479,
+      "title": "不能改的法",
+      "filePath": "第479章-不能改的法.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 480,
+      "title": "塔維",
+      "filePath": "第480章-塔維.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 481,
+      "title": "誦例庭",
+      "filePath": "第481章-誦例庭.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 482,
+      "title": "彼方的版本",
+      "filePath": "第482章-彼方的版本.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 483,
+      "title": "三個版本",
+      "filePath": "第483章-三個版本.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 484,
+      "title": "末年卷",
+      "filePath": "第484章-末年卷.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 485,
+      "title": "立新法",
+      "filePath": "第485章-立新法.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 486,
+      "title": "不立法亦是一法",
+      "filePath": "第486章-不立法亦是一法.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 487,
+      "title": "艾琳娜的選擇",
+      "filePath": "第487章-艾琳娜的選擇.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 488,
+      "title": "獨立觀察員",
+      "filePath": "第488章-獨立觀察員.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 489,
+      "title": "凱爾的守夜",
+      "filePath": "第489章-凱爾的守夜.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 490,
+      "title": "無名碑",
+      "filePath": "第490章-無名碑.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 491,
+      "title": "望島之鐘",
+      "filePath": "第491章-望島之鐘.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 492,
+      "title": "庭審",
+      "filePath": "第492章-庭審.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 493,
+      "title": "交換",
+      "filePath": "第493章-交換.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 494,
+      "title": "表決",
+      "filePath": "第494章-表決.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 495,
+      "title": "鐘舌",
+      "filePath": "第495章-鐘舌.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 496,
+      "title": "凱斯特的回答",
+      "filePath": "第496章-凱斯特的回答.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 497,
+      "title": "守燈人",
+      "filePath": "第497章-守燈人.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 498,
+      "title": "第三道聲音",
+      "filePath": "第498章-第三道聲音.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 499,
+      "title": "全誦會",
+      "filePath": "第499章-全誦會.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 500,
+      "title": "留岸",
+      "filePath": "第500章-留岸.md",
+      "status": "pending",
+      "wordCount": 0,
+      "wordCountPass": false,
       "retryCount": 0
     }
   ]
